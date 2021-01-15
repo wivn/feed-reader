@@ -9,7 +9,7 @@ I wanted an RSS feed reader that could match the exact feature-set I was looking
 - Filter for to get only the latest stories
 - You can read the articles you've added within the web app (depending on what the RSS feed provides)
 - Add pages from feeds (or any page in general) to your "Current" page
-	- Something I've always wanted to do is to be able to get all the main links on a page and save them for reading later. You can do this on the current page
+	- Something I've always wanted to do is to be able to get all the main links on a page and save them for reading later. You can do this on the "Current" page
 
 ## How
 
