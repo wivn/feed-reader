@@ -1,0 +1,13 @@
+{% extends "base/index.html" %}
+{% block title_for_page %}
+	Feed - Adding URLs
+{%endblock%}
+{%block content%}
+<h1>URLs to add from page given</h1>
+<ul>
+    {% for url in possible_urls%}
+        <li class="url_confirmation__li"><span class="url_confirmation__possiblities"><a href="{{url}}">{{url}}</a><form class="url_confirmation__possiblities__form" action="{% url 'feed:delete_from_temp_urls_session' %}" method="post">{% csrf_token %}<input type="hidden" name="url_to_delete_index" value="{{ forloop.counter0 }}"><input  class="url_confirmation__delete" type="submit" value="Delete"></form></span></li>
+    {%endfor%}
+</ul>
+<form class="url_confirmation" method="post" action="{% url 'feed:save_urls_from_page_confirm_urls' %}">{% csrf_token %}<input id="url_confirmation__accept" type="submit" value="Add URLs"></form>
+{%endblock%}

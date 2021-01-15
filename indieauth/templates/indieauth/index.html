@@ -1,0 +1,24 @@
+{% extends "base/index.html" %}
+{%block nav%}{%endblock%}
+{% block title_for_page %}
+	Feed - Indieauth
+{%endblock%}
+{% block content %}
+<div class="page">
+{% if messages %}
+<ul class="messages">
+    {% for message in messages %}
+    <li {% if message.tags %} class="error-text {{ message.tags }}"{% endif %}>{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+<form method="post" action="{% url 'indieauth:login'%}">
+{% csrf_token %}
+<label class="form-item">Website: <input type="url" name="site" placeholder="Enter sitename..."></label>
+<div class="form-item"><input class="main-button" type="submit" value="Login"></div>
+</form>
+<ul class="reg-links">
+    <li><a href="{% url 'registration:signup' %}">Login or create an account with a username and passsword</a></li>
+</ul>
+</div>
+{%endblock%}

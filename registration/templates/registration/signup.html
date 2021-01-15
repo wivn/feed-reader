@@ -1,0 +1,29 @@
+{% extends "base/index.html" %}
+{%block nav%}{%endblock%}
+{% block title_for_page %}
+	Feed - Sign Up
+{%endblock%}
+{% block content %}
+  <h2>Sign up</h2>
+  <form action="{% url 'registration:signup' %}" method="post">
+    {% csrf_token %}
+    {% for field in form %}
+      <p>
+        <div class="form-item">{{ field.label_tag }}
+        {{ field }}</div>
+
+        {% if field.help_text %}
+          <div class="form-item--help-text">{{ field.help_text }}</div>
+        {% endif %}
+        {% for error in field.errors %}
+          <div class="form-item--error-text">{{ error }}</div>
+        {% endfor %}
+      </p>
+    {% endfor %}
+    <button class="main-button" type="submit">Sign up</button>
+  </form>
+  <ul class="reg-links">
+  <li><a href="{% url 'indieauth:index' %}">Login or create an account with my URL</a></li>
+  <li><a href="{% url 'registration:login' %}">Already have a username-based account?</a></li>
+  </ul>
+{% endblock %}

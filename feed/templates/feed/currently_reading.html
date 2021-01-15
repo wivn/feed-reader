@@ -1,0 +1,28 @@
+{% extends "feed/index.html" %}
+{%block title_for_page%}
+    Feed - Current
+{%endblock%}
+{% block non_entry_list %}
+
+<form method="post" action="{%url 'feed:save_urls_from_page' %}">
+    {% csrf_token %}
+    <label for='add-urls-from-page-input'>Add the main links from a page to this feed:</label>
+    <div class="add-url">
+        <input id="add-urls-from-page-input" class="add-url__input" name="urls_from_page" type="text">
+        <input type="Submit" class="add-url__btn"  value="Submit">
+    </div>
+</form>
+
+<ul>
+    {% for entry in feedless_urls%}
+    <li class="container_feedless_post">
+            <a href="{{entry.url}}" class="feedless_post">{{entry.url}}</a>
+            <form class="feedless_post__form" method="post" action="{%url 'feed:feedless_entry_deletion' entry.pk %}">
+                {% csrf_token %}
+                <input id="feedless_post--delete__{{entry.pk}}" class="feedless_post--delete" type="submit" value="X">
+                <label for="feedless_post--delete__{{entry.pk}}">Delete</label>
+            </form>
+    </li>
+    {%endfor%}
+</ul>
+{%endblock%}

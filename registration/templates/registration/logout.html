@@ -1,0 +1,11 @@
+{% extends "base/index.html" %}
+{%block nav%}{%endblock%}
+{% block title_for_page %}
+	Feed - Logout Successfully
+{%endblock%}
+{% block content %}
+<div class="page">
+  <p class="logout-message">Logged out successfully!</p>  
+  <a id="logout-relogin" href="{% url 'registration:login'%}">Click here to login again.</a>
+</div>
+{% endblock %}

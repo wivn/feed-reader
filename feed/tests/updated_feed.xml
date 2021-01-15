@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Startups – TechCrunch</title>
+	
+	<link>https://techcrunch.com</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Fri, 17 Jul 2020 17:05:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>Startups – TechCrunch</title>
+	<link>https://techcrunch.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">136296444</site>	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/techcrunch/startups" /><feedburner:info uri="techcrunch/startups" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Extension rounds help some startups play offense during COVID-19</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/lXxJHCxv13A/</link>
+					<comments>https://techcrunch.com/2020/07/17/extension-rounds-help-some-startups-play-offense-during-covid-19/#respond</comments>
+		
+		<dc:creator><![CDATA[Natasha Mascarenhas]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 17:07:03 +0000</pubDate>
+				<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[charles hudson]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[freestyle capital]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[Homebrew]]></category>
+		<category><![CDATA[hunter walk]]></category>
+		<category><![CDATA[Jenny Lefcourt]]></category>
+		<category><![CDATA[precursor ventures]]></category>
+		<category><![CDATA[Robinhood]]></category>
+		<category><![CDATA[stripe]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2018253</guid>
+
+					<description><![CDATA[The venture capital world is constantly changing, and its evolution can sometimes flip pieces of conventional wisdom on their heads. For example, a recent flurry of extension rounds from Silicon Valley’s hottest startups like Stripe and Robinhood seem to signal that the investment type has suddenly become cool. Extensions evolving from unloved to hot is [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">The venture capital world is constantly changing, and its evolution can sometimes flip pieces of conventional wisdom on their heads. For example, a recent flurry of extension rounds from Silicon Valley’s hottest startups <a href="https://techcrunch.com/2020/04/16/stripe-raises-600m-at-36b-valuation-in-series-g-extension-says-it-has-2b-on-its-balance-sheet/">like Stripe</a> <a href="https://techcrunch.com/author/alex-wilhelm/">and Robinhood</a> seem to signal that the investment type has suddenly become cool.</p>
+<p>Extensions evolving from unloved to hot is not the first time that a type of VC deal has gained, or lost luster. In past times, for example, raising consecutive rounds from the same lead investor was often perceived as a negative signal; why couldn’t the startup find a new, different lead investor? Today, in contrast, venture capitalists are using inside rounds to double-down on winning startups, a way of helping ensure returns for their own backers.</p>
+<p>The recent phenomenon of extensions becoming vogue is a tale of the times, in which the best startups get to play offense, and startups that can’t show accelerating growth are left behind. Let’s explore what has changed.</p>
+<h2><strong>A series of fortunate extensions</strong></h2>
+<p>TechCrunch first wrote about <a href="https://techcrunch.com/2020/07/11/the-exchange-remote-dealmaking-rapid-fire-ipos-and-how-much-250m-buys-you/">the new extension-round trend</a> after seeing what felt like a wave of the deals crop up. Some were large, like MariaDB’s huge <a href="https://techcrunch.com/2020/07/09/mariadb-raises-25m-more-to-expand-its-skysql-cloud-database-platform/">$25 million add-on to its Series C</a>, or Robinhood’s <a href="https://techcrunch.com/2020/07/13/robinhood-raises-320m-more-bringing-its-latest-round-to-600m-at-an-8-6b-valuation/">biblical $320 million addition</a> to its Series F.</p>
+<p>But most were smaller events like <a href="https://sayari.com/">Sayari</a> adding <a href="https://techcrunch.com/2020/07/11/the-exchange-remote-dealmaking-rapid-fire-ipos-and-how-much-250m-buys-you/">$2.5 million to its Series B</a>, or <a href="https://www.ca.la/">CALA</a> adding<a href="https://news.crunchbase.com/news/cala-raises-3m-seed-extension-to-help-launch-fashion-brands/"> $3 million to its seed</a> round. Even more recently, <a href="https://eterneva.com/">Eterneva</a> raised <a href="https://news.crunchbase.com/news/grief-wellness-startup-eterneva-adds-3m-to-seed-round/">another $3 million</a> on top of its seed round, and also out this week was a million pounds more for Edinburgh-based <a href="https://www.machinelabs.com/">Machine Labs</a>’ seed round.</p>
+<p>One reason for the growth of extension rounds in 2020 has been <a href="https://techcrunch.com/2020/04/09/as-vcs-pull-back-clearbanc-launches-a-way-for-startups-to-get-runway/">runway</a> &#8212; making sure that a startup has enough. Upstarts often raise on an 18-month cadence. But because of COVID-19 and its constituent economic disruptions, many have reduced costs in a bid to bolster how long they have until their cash stores reach zero.</p>
+<p><div class="extra-crunch-offer-container"></div><img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/lXxJHCxv13A" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/17/extension-rounds-help-some-startups-play-offense-during-covid-19/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2018253</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/17/extension-rounds-help-some-startups-play-offense-during-covid-19/</feedburner:origLink></item>
+		<item>
+		<title>Marketing, PR and brand building, oh my! TechCrunch Early Stage goes down July 21 and 22</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/Tre3orfURE4/</link>
+					<comments>https://techcrunch.com/2020/07/17/marketing-pr-and-brand-building-oh-my-techcrunch-early-stage-goes-down-july-21-and-22/#respond</comments>
+		
+		<dc:creator><![CDATA[Jordan Crook]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 15:45:06 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[early stage]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2018396</guid>
+
+					<description><![CDATA[Your product may solve problems. It may cost less and do more. It may very well change the world. But unless you can get the word out, ensuring the right group of people know about it and are willing to use it, pay for it and evangelize it, then your hard work is in vain. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Your product may solve problems. It may cost less and do more. It may very well change the world. But unless you can get the word out, ensuring the right group of people know about it and are willing to use it, pay for it and evangelize it, then your hard work is in vain.</p>
+<p>At <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=editpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=marketingroundup&amp;display=">TechCrunch Early Stage</a>, we&#8217;ll hear from some of the world&#8217;s top minds in the fields of marketing and brand building. They&#8217;ll talk through different growth marketing tactics, from creating growth assets for paid channels to capitalizing on podcasts to SEO to email. They&#8217;ll cover the complicated world of PR, and they&#8217;ll teach us about how to develop a brand that users can relate to.</p>
+<p>Of course, this is just one slice of the pie. At <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=editpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=marketingroundup&amp;display=">Early Stage</a>, experts across a wide variety of startup core competencies — fundraising, legal, recruiting, tech stack, scaling and more — will take the virtual stage to give early-stage founders the tools they need to get out there and succeed. What&#8217;s more, these experts have made time to answer audience questions, so don&#8217;t be shy!</p><div class="piano-inline-promo"></div>
+<p>Here&#8217;s a look at all the marketing sessions you can expect at the show:</p>
+<h3>Why should anyone care? (Making your brand stand out) with Caryn Marooney</h3>
+<p><em>Startups often struggle to create a narrative that stands out. As a general partner at Coatue, former head of Comms at Facebook and co-founder of the OutCast Agency, Caryn Marooney has seen it all. Come learn the brand and messaging framework that can help your company stand out (while staying true to yourself.)</em></p>
+<h3>Growth Marketing: Minimum viable email with Susan Su</h3>
+<p><em>Love it or hate it, email is here to stay. But understanding where it fits into the conversion funnel and how to maximize its impact can be arduous. Learn from Sound Ventures partner Susan Su how to optimize open rates, deliverability, unsubscribes and conversions for consumer and enterprise products alike. </em></p>
+<h3>How to build a high-performance SEO engine with Ethan Smith</h3>
+<p><em>Hear from Ethan Smith, who has worked with brands like MasterClass, Ticketmaster and Thumbtack, as he shares some of the most effective modern SEO strategies. Starting with a deep understanding of the user and their intent, the most successful modern SEO strategies focus on building a data-driven approach to drive user experience, content and conversion to ultimately beat the competition. </em></p>
+<h3>Be the best at preparing for the worst with Margit Wennmachers and Miguel Helft</h3>
+<p><em>Inevitably, something will go wrong &#8212; from product recalls and lawsuits to executive firings and sexual harassment allegations, so you better be prepared. Hear from Margit Wennmachers, operating partner at Andreessen Horowitz and a co-founder of OutCast Communications (now The OutCast Agency) and Miguel Helft, editorial director at Message Lab, about how to develop a framework for crisis and withstand through tough times.</em></p>
+<h3>Growth Marketing: Podcasts as a secret weapon with Krystina Rubino and Lindsay Piper Shaw</h3>
+<p><em>Podcast advertising is widely viewed as a nascent medium, but smart companies know it can be a powerful channel in their marketing mix. Opportunity is ripe &#8212; get in early and you can own the medium, box out competitors and catapult your growth. Krystina Rubino and Lindsay Piper Shaw have launched and scaled successful podcast ad campaigns for early-stage startups and household name brands and will be sharing their strategies for companies to succeed in this often misunderstood channel.</em></p>
+<h3>How to get people obsessed with your brand with Emily Heyward</h3>
+<p><em>During her 12-year tenure running Red Antler, one of the leading brand companies for startups and new ventures, Emily Heyward has launched more brands than anyone. In this session for TechCrunch Early Stage, she’ll share the modern rules of brand building, breaking down the traditional notions of how modern brands look, feel and behave. Covering a few case studies and tactical applications, Emily will outline the best practices for driving obsession from day one while also building a foundation for long-term growth. </em></p>
+<h3>How to create great growth assets for paid channels with Asher King Abramson</h3>
+<p><em>Learn about the right ways and wrong ways to create great assets for paid channels, landing pages and more in this teardown workshop with Asher King Abramson, a top growth marketer who has worked with 100+ successful startups. Submit your landing page and ads beforehand for a chance to receive feedback live onstage.</em></p>
+<h3>A brand personified with Anna Pickard</h3>
+<p><em>Anna Pickard is the head of Brand Communications at Slack, responsible for establishing the company’s voice and tone. Hear Anna share how to bring together the various functions of your organization to create a distinctly unique brand voice that engages and delights customers. </em></p>
+<p><a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=editpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=marketingroundup&amp;display=TRUE">Early Stage</a> goes down July 21 and 22. You don&#8217;t want to miss it. <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=editpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=marketingroundup&amp;display=TRUE">Tickets are almost gone</a> &#8212; register for your ticket <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=editpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=marketingroundup&amp;display=TRUE">here</a>.</p>
+<p>	<iframe
+			id="wpcom-iframe-02477ba73f2ce7104ba54bd838810d2a"
+			width="99%"
+			height="1200"
+			src="https://tcprotectedembed.com/protected-iframe/02477ba73f2ce7104ba54bd838810d2a"
+			scrolling=""
+			frameborder="0"
+			class="wpcom-protected-iframe"
+	>
+	</iframe>
+	<script type="text/javascript">
+		( function() {
+			var func = function() {
+				var iframe = document.getElementById('wpcom-iframe-02477ba73f2ce7104ba54bd838810d2a')
+				if ( iframe ) {
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-02477ba73f2ce7104ba54bd838810d2a'
+						}, "https:\/\/tcprotectedembed.com" );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'tcprotectedembed.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+	</script>
+	</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/Tre3orfURE4" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/17/marketing-pr-and-brand-building-oh-my-techcrunch-early-stage-goes-down-july-21-and-22/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2018396</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/17/marketing-pr-and-brand-building-oh-my-techcrunch-early-stage-goes-down-july-21-and-22/</feedburner:origLink></item>
+		<item>
+		<title>Ready, set, network! CrunchMatch is now open for Early Stage 2020</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/gxcPqttYw-s/</link>
+					<comments>https://techcrunch.com/2020/07/17/ready-set-network-crunchmatch-is-now-open-for-early-stage-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Alexandra Ames]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 15:43:59 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC Early Stage 2020]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2015940</guid>
+
+					<description><![CDATA[Call it what you will — startup bootcamp, founders’ masterclass or the mother of all how-to events — we’re just days away from TC Early Stage 2020. But you don’t have to wait another minute to start making essential connections. CrunchMatch, our AI-powered networking platform, is now open for business. Wait up. You don’t have [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Call it what you will — startup bootcamp, founders’ masterclass or the mother of all how-to events — we’re just days away from <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=marketingpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=crunchmatchpost&amp;display=TRUE">TC Early Stage 2020</a>. But you don’t have to wait another minute to start making essential connections. CrunchMatch, our AI-powered networking platform, is now open for business.</p>
+<p>Wait up. You don’t have a pass yet? Crikey! <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=marketingpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=crunchmatchpost&amp;display=TRUE">Buy your Early Stage pass here</a>, start networking now and get a head start on driving your business forward. Then on July 21-22, tune in to your choice of more than 50 expert-led sessions designed to help early-stage founders succeed and thrive. Topics cover crucial building blocks that span the startup ecosystem. More on those in a minute.</p>
+<p>Back to CrunchMatch. There’s no easier way to find and connect with like-minded <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=marketingpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=crunchmatchpost&amp;display=TRUE">Early Stage</a> attendees — no matter where they’re located. A new, supercharged AI algorithm makes matching and recommendations even faster and more precise — and the more you use it the smarter it gets.</p><div class="piano-inline-promo"></div>
+<p>Keep your networking relaxed and organized — schedule 1:1 video meetings with investors or other founders; meet the people who can help you grow your business.</p>
+<p>The <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=marketingpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=crunchmatchpost&amp;display=TRUE">Early Stage</a> sessions cover crucial information, along with plenty of tips, tricks and advice, that early-stage founders need to know — like fundraising, tech stack and growth marketing to term sheet construction, recruitment, product management and PR. Here’s just one example, and you can see what else we have waiting for you on <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=marketingpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=crunchmatchpost&amp;display=#e25fa7b1-ad0e-46ee-a6d6-c39b6d5e2bc3">the agenda</a>.</p>
+<p><strong>The business of bootstrapping:</strong> Webflow was bootstrapped and profitable for seven years before co-founder and CEO, Vlad Magdalin trusted Accel’s Arun Mathew as their first institutional investor. Hear how Magdalin designed a sustainable, high-growth business without institutional investment, and the surprising factors that led him to take VC investment.</p>
+<p>We’re limiting session capacity to keep interaction and information flowing. Sign up fast for the topics you want most because some sessions are already at capacity. When the conference ends, all ticket holders will have access to a video archive of every sessions.</p>
+<p><a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=marketingpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=crunchmatchpost&amp;display=TRUE">TC Early Stage 2020</a> sessions take place from July 21 – 22, but CrunchMatch is open right now. <a href="https://techcrunch.com/events/tc-early-stage-sf-2020?utm_medium=marketingpost&amp;utm_campaign=earlystagesf2020&amp;utm_content=marketing&amp;utm_source=tc&amp;promo=crunchmatchpost&amp;display=TRUE">Register for TC Early Stage</a>, then go fill out your profile and start expanding your network — and your empire — today.</p>
+<p>	<iframe
+			id="wpcom-iframe-02477ba73f2ce7104ba54bd838810d2a"
+			width="99%"
+			height="1200"
+			src="https://tcprotectedembed.com/protected-iframe/02477ba73f2ce7104ba54bd838810d2a"
+			scrolling=""
+			frameborder="0"
+			class="wpcom-protected-iframe"
+	>
+	</iframe>
+	<script type="text/javascript">
+		( function() {
+			var func = function() {
+				var iframe = document.getElementById('wpcom-iframe-02477ba73f2ce7104ba54bd838810d2a')
+				if ( iframe ) {
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-02477ba73f2ce7104ba54bd838810d2a'
+						}, "https:\/\/tcprotectedembed.com" );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'tcprotectedembed.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+	</script>
+	</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/gxcPqttYw-s" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/17/ready-set-network-crunchmatch-is-now-open-for-early-stage-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2015940</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/17/ready-set-network-crunchmatch-is-now-open-for-early-stage-2020/</feedburner:origLink></item>
+		<item>
+		<title>An unsurprising wave of video-focused startups is trying to make video calls better</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/GIhzwmGjWo8/</link>
+					<comments>https://techcrunch.com/2020/07/17/an-unsurprising-wave-of-video-focused-startups-is-trying-to-make-video-calls-better/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Wilhelm]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 14:54:30 +0000</pubDate>
+				<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Daily.co]]></category>
+		<category><![CDATA[macro]]></category>
+		<category><![CDATA[Microsoft Teams]]></category>
+		<category><![CDATA[mmhmm]]></category>
+		<category><![CDATA[slack]]></category>
+		<category><![CDATA[The Exchange]]></category>
+		<category><![CDATA[zoom]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2018140</guid>
+
+					<description><![CDATA[As Zoom and Microsoft and Google hammer it out for video-chat hegemony, startups are developing apps and services that either add on or compete with the major players. There hasn&#8217;t been enough activity &#8212; yet &#8212; to call it a boom, but there&#8217;s enough going on to warrant our attention. Call it a boomlet, if [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">As Zoom and Microsoft and Google <a href="https://techcrunch.com/2020/04/09/microsoft-says-video-calls-in-teams-grew-1000-in-march/">hammer it out for video-chat hegemony</a>, startups are developing apps and services that either add on or compete with the major players.</p>
+<p>There hasn&#8217;t been enough activity &#8212; yet &#8212; to call it a boom, but there&#8217;s enough going on to warrant our attention. Call it a boomlet, if you will, of startups looking to ride the wave of demand that video-conferencing has seen during the COVID-19 pandemic.</p>
+<hr />
+<p><strong><em>The Exchange explores startups, markets and money. You can read it <a href="https://techcrunch.com/subscribe/?tpcc=theexchange">every morning on Extra Crunch</a>, or receive it for free in your inbox. Sign up <a href="https://techcrunch.com/newsletters">for The Exchange newsletter</a>, which drops Saturdays starting July 25.</em></strong></p>
+<hr />
+<p>The big players are not sitting still. Zoom has spent <a href="https://techcrunch.com/2020/04/02/zoom-freezes-feature-development-to-fix-security-and-privacy-issues/">lots of 2020 on platform security</a> after a surge in popularity exposed some frayed ends. Google has been working to make Meet, its own video-chat service, <a href="https://techcrunch.com/2020/05/04/google-meet-shows-up-in-gmail-inboxes-a-few-years-too-late/">better and easier to find</a>. And Microsoft has been <a href="https://techcrunch.com/2020/07/08/microsoft-makes-teams-video-meetings-less-tiring-with-its-new-together-mode/">hammering Teams&#8217;s abilities into stronger form</a> as it uses the same product to fend off both Slack and Zoom, which is a tall order.</p>
+<p><a href="https://techcrunch.com/subscribe/?tpcc=theexchange"><img class="alignright wp-image-1995213 size-medium" src="https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?w=300" alt="" width="300" height="300" srcset="https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg 900w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=150,150 150w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=300,300 300w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=768,768 768w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=680,680 680w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=32,32 32w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=50,50 50w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=64,64 64w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=96,96 96w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-orng.jpg?resize=128,128 128w" sizes="(max-width: 300px) 100vw, 300px" /></a>Other giants are getting into the mix. Reliance Jio, the Indian telecom subsidiary of megacorp Reliance, <a href="https://techcrunch.com/2020/07/02/reliance-jio-platforms-launches-jiomeet-video-conference-service/">recently launched JioMeet</a>, which has turned heads for looking rather similar to Zoom. It also quickly <a href="https://indianexpress.com/article/technology/tech-news-technology/jiomeet-sees-5-million-downloads-6507252/#:~:text=Richest%20Indian%20Mukesh%20Ambani%20on,within%20days%20of%20its%20launch.&amp;text=JioMeet%2FPlay%20Store)-,Richest%20Indian%20Mukesh%20Ambani%20on%20Wednesday%20said%20India's%20first%20cloud,within%20days%20of%20its%20launch.">raced to millions of downloads</a>. (That <a href="https://techcrunch.com/2020/07/15/google-invests-4-5-billion-in-indias-reliance-jio-platforms/">Google just put billions into JioMeet&#8217;s parent</a> is an odd twist in the video-chatting wars; Google has effectively helped fund a competitor in the country, it appears.)</p>
+<p>TechCrunch&#8217;s parent company, Verizon, <a href="https://techcrunch.com/2020/05/18/verizon-wraps-up-bluejeans-acquisition-lickety-split/">recently bought BlueJeans</a>, giving the American telecom company its own video chatting service. (It&#8217;s also <a href="https://techcrunch.com/2020/07/14/airtel-bluejeans-verizon-partnership-india-launch/">eyeing the Indian market</a>.)</p>
+<p>But that&#8217;s only part of the action. More recently we&#8217;ve seen interesting rounds for video-chat software startups <a href="https://www.macro.io/">Macro</a> and <a href="https://www.mmhmm.app/">Mmhmm</a>. And we&#8217;ve seen money go into companies like <a href="http://Daily.co">Daily.co</a>, which want to let any company bake video-chatting capabilities into their service. And Y Combinator-backed <a href="https://techcrunch.com/2020/07/15/sidekick-embraces-remote-working-with-always-on-teleconferencing-hardware/">Sidekick</a> has been in the press lately, after building a hardware solution in mind for today&#8217;s remote workers who need video comms.</p>
+<p>An upstart boomlet, then, amid a war of the majors. But should we have expected anything less from the huge wave of demand that COVID-19 kicked off? Zoom was <a href="https://investors.zoom.us/news-releases/news-release-details/zoom-video-communications-reports-fourth-quarter-and-fiscal-year#:~:text=Revenue%3A%20Total%20revenue%20for%20the,quarter%20of%20fiscal%20year%202019.">growing quickly before the pandemic</a>. Now the public company and a host of rivals, big and small, all want a larger slice of an expanding pie.</p>
+<h2>Video-conferencing startups</h2>
+<p>The two most interesting recent venture rounds for video-conferencing startups are those belonging to Mmhmm and Macro.<div class="extra-crunch-offer-container"></div><img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/GIhzwmGjWo8" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/17/an-unsurprising-wave-of-video-focused-startups-is-trying-to-make-video-calls-better/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2018140</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/17/an-unsurprising-wave-of-video-focused-startups-is-trying-to-make-video-calls-better/</feedburner:origLink></item>
+		<item>
+		<title>Give us your seed round and we will send back double</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/gZW-5Ry-WYI/</link>
+					<comments>https://techcrunch.com/2020/07/17/give-us-your-seed-round-and-we-will-send-back-double/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Wilhelm]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 13:00:16 +0000</pubDate>
+				<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[equity]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[GoHealth]]></category>
+		<category><![CDATA[liteboxer]]></category>
+		<category><![CDATA[ncino]]></category>
+		<category><![CDATA[reliance jio]]></category>
+		<category><![CDATA[The Browser Company]]></category>
+		<category><![CDATA[udemy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2018184</guid>
+
+					<description><![CDATA[Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines. This week was full of news of all sorts, but as we recorded, both Danny and Natasha &#8220;not Tash&#8221; Mascarenhas were still locked out of their Twitter accounts after a proletariat revolution on the social platform saw the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary"><iframe src="https://player.simplecast.com/f4d6e0dc-c6ba-4d74-b489-1733ffbbc28a?dark=true" width="100%" height="200px" frameborder="no" scrolling="no" seamless=""></iframe></p>
+<p>Hello and welcome back to <a href="https://open.spotify.com/show/5IEYLip3eDppcOmy5DmphC?si=bjgo57TCQ-uFC38-iTy6HA">Equity</a>, TechCrunch’s venture capital-focused podcast, where we unpack the numbers behind the headlines.</p>
+<p>This week was full of news of all sorts, but as we recorded, both <a href="https://twitter.com/dannycrichton">Danny</a> and <a href="https://twitter.com/nmasc_">Natasha &#8220;not Tash&#8221; Mascarenhas</a> were still locked out of their Twitter accounts after a proletariat revolution on the social platform saw <a href="http://twitter.com/alex">the ruling Blue Checkmark Class</a> forced into silence. That&#8217;s not <em>really</em> what happened, but it sounds better than what actually went down at Big Social.</p>
+<p>Anyway, Twitter accounts or not, the three of us gathered to parse through a wave of news:</p>
+<ul>
+<li>The new TechCrunch List that Danny spent a <em>very</em> long time compiling has arrived! It&#8217;s live! <a href="https://techcrunch.com/the-techcrunch-list/">You can find it here</a>. It is good.</li>
+<li>And, if you want to know which VCs were even more fêted by founders, <a href="https://techcrunch.com/2020/07/16/with-600-more-founder-recommendations-the-second-revision-of-the-techcrunch-list-is-coming-next-week/">head here</a>. (If you are irked that you did not make either list, please email Danny, not the show!)</li>
+<li>Moving on, <a href="https://techcrunch.com/2020/07/15/google-invests-4-5-billion-in-indias-reliance-jio-platforms/">Google is putting billions into Reliance Jio</a> after every other company in the world did the same. Google is buying a bit less of the Indian telecom than the search giant, but between the two of them it&#8217;s been more than $10 billion in dealmaking. Perhaps Reliance Jio is done raising money? At last?</li>
+<li>Udemy is <a href="https://www.theinformation.com/articles/online-education-company-udemy-seeks-funding-at-3-billion-valuation">hunting up more capital at a higher valuation</a>, reports say, providing Natasha with the perfect moment to let us know what is going with edtech.</li>
+<li>Turning to funding rounds, I was hyped about the <a href="https://www.macro.io/">Macro</a> round <a href="https://techcrunch.com/2020/07/14/macro-just-raised-4-3m-to-make-your-never-ending-zoom-calls-more-useful/">that TechCrunch covered this week</a>, Danny wanted to chat about <a href="https://thebrowser.company/">The Browser Company&#8217;s</a> similarly sized <a href="https://techcrunch.com/2020/07/14/chrome-competitor-the-browser-company-quietly-raises-5m/">$5 million round</a> and Natasha talked us through <a href="https://liteboxer.com/">LiteBoxer&#8217;s</a> combined <a href="https://techcrunch.com/2020/07/14/liteboxer-the-peloton-for-boxing-enters-the-ring/">$6 million in new capital</a>.</li>
+<li>Closing, we talked about IPOs for a hot second. The <a href="https://techcrunch.com/2020/06/05/the-ipo-window-is-open-2/">IPO window is open</a>, and now <a href="https://techcrunch.com/2020/06/24/unpacking-the-ncino-and-gohealth-ipo-filings/">that nCino and GoHealth have gone public</a>, we want to know who is next.</li>
+</ul>
+<p>It was a lovely time and there is a bit of show news. Namely that Equity is coming back to YouTube either this week or the next. So if you want to see us talk, soon you will be able to! Again!</p>
+<p>Oh, <a href="https://twitter.com/equitypod">and follow the show on Twitter</a>. If you can, that is.</p>
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<div class="article-content">
+<p><i>Equity drops every Monday at 7:00 a.m. PT and Friday at 6:00 a.m. PT, so subscribe to us on </i><a href="https://itunes.apple.com/us/podcast/id1215439780"><i>Apple Podcasts</i></a><i>, </i><a href="https://overcast.fm/itunes1215439780/equity"><i>Overcast</i></a><i>, </i><a href="https://open.spotify.com/show/5IEYLip3eDppcOmy5DmphC?si=rZDFHv2sQUul_g94iCRgpQ"><i>Spotify</i></a><i> and all the casts.</i></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/gZW-5Ry-WYI" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/17/give-us-your-seed-round-and-we-will-send-back-double/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2018184</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/17/give-us-your-seed-round-and-we-will-send-back-double/</feedburner:origLink></item>
+		<item>
+		<title>Sign up for next week’s Pitchers &amp; Pitches competition on 7/23</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/Yzvoo5ww-sE/</link>
+					<comments>https://techcrunch.com/2020/07/16/sign-up-next-weeks-pitchers-and-pitches-competition-on-7-23/#respond</comments>
+		
+		<dc:creator><![CDATA[Marquise Foster]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 20:12:29 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Disrupt 2020]]></category>
+		<category><![CDATA[Pitchers and Pitches]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2014350</guid>
+
+					<description><![CDATA[Can one minute really make a difference in your startup success? If we’re talking about your 60-second pitch (and we are), then heck yeah! A crisp, concise and compelling pitch opens doors to opportunity, and we’re here to help you pump up your pitch. Join us online for the next Pitchers &#38; Pitches competition on [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary"><span style="font-weight: 400;">Can one minute really make a difference in your startup success? If we’re talking about your 60-second pitch (and we are), then heck yeah! A crisp, concise and compelling pitch opens doors to opportunity, and we’re here to help you pump up your pitch.</span></p>
+<p><span style="font-weight: 400;"><a href="https://hopin.to/events/pitchers-pitches-july23">Join us</a> online for the next Pitchers &amp; Pitches competition on July 23 at 4 p.m. ET / 1 p.m. PT, where you’ll hear rapid-fire pitches from five Digital Startup Alley exhibitors who will be participating at Disrupt this year. The five early-stage startups will take the virtual stage and present their best pitch to a panel of highly qualified judges — TechCrunch editors who coach Startup Battlefield competitors and leading VCs. Seriously, who wouldn’t want feedback from pros like that?</span></p>
+<p><span style="font-weight: 400;"> After each pitch, the judges provide the founders with an invaluable critique, tips and advice. Even if you don’t pitch, you can apply what you’ve learned to take your elevator pitch to the next level. Plus, the viewing audience gets to choose the best pitch of the session. The winning startup gets a consulting session with <a href="https://www.cela.nyc/">cela</a>, a company that connects early-stage startups to accelerators and incubators that can help scale their businesses.</span></p><div class="piano-inline-promo"></div>
+<p><span style="font-weight: 400;">This is also an opportunity for the TechCrunch community to try out our new virtual Disrupt platform before we go live in September.</span></p>
+<p><span style="font-weight: 400;">You’ll have an opportunity to check out some of our new features, like:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Watch and interact with the pitch-off event on the virtual main stage.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Meet and video network with other attendees.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Connect with the five pitchers in their virtual booth in the startup expo.</span></li>
+</ul>
+<p><strong>Note</strong>: Anyone can attend Pitchers &amp; Pitches, but only companies exhibiting in Digital Startup Alley during Disrupt 2020 are eligible to pitch. There’s still time to be considered for the July 23 pitch-off — if you act quickly and purchase a <a href="https://techcrunch.com/events/disrupt-sf-2020/tickets/?utm_medium=marketingpost&amp;utm_campaign=disruptsf2020&amp;utm_content=pitcherspitches&amp;utm_source=tc&amp;promo=63020suapandp&amp;display=TRUE">Disrupt Digital Startup Alley Package</a>. We randomly select the startups that get to participate, and we’ll announce them — and the judges — on July 22.</p>
+<p><a href="https://hopin.to/events/pitchers-pitches-july23">Register here to attend for free</a>. Help your 60-second pitch open more doors to more opportunity.</p>
+<p><em>Is your company interested in sponsoring or exhibiting at Disrupt 2020? Contact our sponsorship sales team by <a href="http://info.techcrunch.com/SponsorshipsInterest.html?_ga=2.199846766.1929214232.1592341823-985484541.1566312242&amp;_gac=1.149571396.1592244932.CjwKCAjw5Ij2BRBdEiwA0Frc9YR31jc15Yzq_XjjX3a2eTrCt1FxCR6kTHNfe8adKhqIHGVbkQ4nIRoC4hcQAvD_BwE">filling out this form</a>.</em></p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/Yzvoo5ww-sE" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/sign-up-next-weeks-pitchers-and-pitches-competition-on-7-23/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2014350</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/sign-up-next-weeks-pitchers-and-pitches-competition-on-7-23/</feedburner:origLink></item>
+		<item>
+		<title>8 edtech investors talk re-skilling, digital universities, ISAs and other post-pandemic trends</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/YFYJezTLWl0/</link>
+					<comments>https://techcrunch.com/2020/07/16/8-edtech-investors-talk-reskilling-digital-universities-isas-and-other-post-pandemic-trends/#respond</comments>
+		
+		<dc:creator><![CDATA[Natasha Mascarenhas]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 16:25:33 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[cowboy ventures]]></category>
+		<category><![CDATA[edtech]]></category>
+		<category><![CDATA[Emerge Education]]></category>
+		<category><![CDATA[ian chiu]]></category>
+		<category><![CDATA[Jan Lynn-Matern]]></category>
+		<category><![CDATA[Jennifer Carolan]]></category>
+		<category><![CDATA[Jomayra Herrera]]></category>
+		<category><![CDATA[Owl Ventures]]></category>
+		<category><![CDATA[Reach Capital]]></category>
+		<category><![CDATA[Rebecca Kaden]]></category>
+		<category><![CDATA[Shauntel Garvey]]></category>
+		<category><![CDATA[TCV]]></category>
+		<category><![CDATA[Union Square Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2016752</guid>
+
+					<description><![CDATA[We know that the coronavirus has brought unprecedented attention to the edtech market, but now what? What happens when schools are no longer clambering toward an overnight solution? When the surges slow? When our world reopens and there doesn’t need to be a full-suite of at-home solutions for kids and parents? As the next wave [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">We know that the coronavirus has brought unprecedented attention to the edtech market, but now what? What happens when schools are no longer clambering toward an overnight solution? When the surges slow? When our world reopens and there doesn’t need to be a full-suite of at-home solutions for kids and parents?</p>
+<p>As the next wave of edtech companies are being built to <a href="https://techcrunch.com/2020/05/01/as-lockdowns-stretch-on-is-edtech-passing-or-failing/">address these novel use cases</a>, investors are looking for solutions that aren’t simply pandemic-era important. To some, that means skipping the latest videoconferencing platform play and maybe cutting a check to a digital-only university. To others, it means looking for the platform that will educate a diverse range of users, <a href="https://techcrunch.com/2020/06/26/reskilling-upskilling-future-of-edtech/">especially the unemployed.</a></p>
+<p>A spree of recent consolidation within the market shows that there is a need for a <a href="https://techcrunch.com/2020/07/13/edtech-exits-show-a-need-for-better-plumbing/?tpcc=ECTW2020">better plumbing system </a>in the fragmented world of edtech.</p>
+<p>We turned to eight investors in the space to understand which subcategories are shaping up to be the future, following up on our first survey <a href="https://techcrunch.com/2020/04/09/12-major-league-edtech-vcs-discuss-top-trends-opportunities/">last fall when the world was very different</a>, and <a href="https://techcrunch.com/2019/10/01/where-top-vcs-are-investing-in-edtech/">another in early April</a> when less was understood about the pandemic. Our goal here was to find nonobvious ways innovation is living within the noisier-than-ever sector. The result? Intel on nascent trends, deal-makers and what adaption looks like amid a time of uncertainty.</p>
+<p>Today you&#8217;ll get a deep dive on the nerdy stuff from the following investors:</p>
+<ul>
+<li><strong>Reach Capital’s Jennifer Carolan, Shauntel Garvey and Chian Gong</strong></li>
+<li><strong>Ian Chiu, Owl Ventures</strong></li>
+<li><strong>Jan Lynn-Matern, Emerge Education</strong></li>
+<li><strong>David Eichler, TCV</strong></li>
+<li><strong>Rebecca Kaden, Union Square Ventures</strong></li>
+<li><strong>Jomayra Herrera, Cowboy Ventures</strong></li>
+</ul>
+<p>Investors differed on which subcategories benefitted the most, but it&#8217;s clear that the pandemic didn&#8217;t lift up the entirety of the edtech space. One investor noted that the pandemic made them even less interested in ISAs, while other venture capitalists noted how valuable the financing instrument is now, more than ever before.</p>
+<p>We got into some of the big themes that have risen in the past few months: online learning, re-skilling, ISAs, virtual universities and where each investor draws their line around these categories.</p>
+<p>A common theme throughout the commentary now is that the opportunity presented by coronavirus is not being met with complacency, but instead a push to grow better. Investors talked about innovation needs to account for childcare, cost, digital infrastructure, and the addressable population, pandemic or not.</p>
+<p>I think that&#8217;s enough teasing. Now, onto the answers.</p>
+<p><div class="extra-crunch-offer-container"></div><img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/YFYJezTLWl0" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/8-edtech-investors-talk-reskilling-digital-universities-isas-and-other-post-pandemic-trends/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2016752</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/8-edtech-investors-talk-reskilling-digital-universities-isas-and-other-post-pandemic-trends/</feedburner:origLink></item>
+		<item>
+		<title>Startup launches innovative new product that pays Amazon marketplace sellers daily</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/AYxk_lGbIAc/</link>
+					<comments>https://techcrunch.com/2020/07/16/startup-launches-innovative-new-product-that-pays-amazon-marketplace-sellers-daily/#respond</comments>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 16:13:48 +0000</pubDate>
+				<category><![CDATA[eCommerce]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[InstaPay]]></category>
+		<category><![CDATA[working capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017400</guid>
+
+					<description><![CDATA[Third-party sellers are the dominant driver of sales on Amazon’s marketplace, accounting for 58% of its total (and growing). We know that the pandemic, ironically, has been good for Amazon, which has reported net sales in Q1 up by 26% year-over-year, given that much of the world has reverted to ordering online. However, the payment [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Third-party sellers are the dominant driver of sales on <a class="crunchbase-link" href="https://crunchbase.com/organization/amazon" target="_blank" data-type="organization" data-entity="amazon">Amazon’s <span class="crunchbase-tooltip-indicator"></span></a> marketplace, accounting for 58% of its total (and growing). We know that the pandemic, ironically, has been good for Amazon, which has reported net sales in Q1 up by 26% year-over-year, given that much of the world has reverted to ordering online. However, the payment terms offered are far from convenient. Amazon pays sellers approximately every two weeks and reserves a significant amount for possible refunds. Unfortunately, this hinders the ability of small companies to invest in growth and purchase more inventory. But of course, Amazon holds the keys to this particular car.</p>
+<p><a href="http://Payability.com">Payability</a> is one such startup that provides financing to suppliers in Amazon’s marketplace, although its fees are computed on gross sales, not net receivables from Amazon.</p>
+<p><a href="https://www.crunchbase.com/organization/instapay">InstaPay</a> is a startup that has launched a new product that pays Amazon sellers on a <em>daily</em> basis. The new offering comes at a time when Amazon sellers are experiencing an enormous load due to the pandemic, but the Amazon marketplace terms have not sped up to allow them to meet demand.</p><div class="piano-inline-promo"></div>
+<p>The current two-week lag time creates a gap in cash-flow &#8212; because sellers usually have to pay their vendors in advance. <a class="crunchbase-link" href="https://crunchbase.com/organization/instapay" target="_blank" data-type="organization" data-entity="instapay">InstaPay&#8217;s <span class="crunchbase-tooltip-indicator"></span></a> new product potentially solves this problem, allowing sellers to be able to earn more, even with the added InstaPay fees.</p>
+<p>The service funds 50% to 80% of sales and charges 1% to 2% of sales volume per funding. When Amazon pays the vendor, InstaPay automatically deducts the outstanding balance. This means small companies can invest in growth and purchase more inventory.</p>
+<p>Sam Bokher, COO, said in a statement: “Due to the global lockdown, people have ramped up online purchases and more companies have flocked to Amazon and other eCommerce platforms to sell online. We launched this new service to provide businesses with an opportunity to grow simultaneously with the marketplace, rather than with a two-week delay.”</p>
+<p>The product was inspired by an unlikely industry. Prior to this, InstaPay had been providing transportation and trucking companies with working capital, with flat-rate accounts receivable financing and same-day payment.</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/AYxk_lGbIAc" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/startup-launches-innovative-new-product-that-pays-amazon-marketplace-sellers-daily/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017400</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/startup-launches-innovative-new-product-that-pays-amazon-marketplace-sellers-daily/</feedburner:origLink></item>
+		<item>
+		<title>Revel lands permit to bring hundreds of electric mopeds to San Francisco</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/93UNvkp2-ns/</link>
+					<comments>https://techcrunch.com/2020/07/16/revel-lands-permit-to-bring-hundreds-of-electric-mopeds-to-san-francisco/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 15:35:38 +0000</pubDate>
+				<category><![CDATA[Automotive]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[Revel Transit]]></category>
+		<category><![CDATA[shared mobility]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017959</guid>
+
+					<description><![CDATA[Shared electric moped startup Revel received a permit that will allow it to operate in San Francisco, beginning in August. The startup will start with a fleet of 432 mopeds featuring a new paint scheme and a more powerful engine to help riders get up and over the city&#8217;s infamously steep hills. For now, the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p dir="ltr">Shared electric moped startup Revel received a permit that will allow it to operate in San Francisco, beginning in August.</p>
+<p dir="ltr">The startup <span style="font-family: arial, sans-serif;">will start with a fleet of 432 mopeds featuring a new paint scheme and a more powerful engine to help riders get up and over the city&#8217;s infamously steep hills. For now, the service area will cover certain neighborhoods of San Francisco, including Cow Hollow, Dogpatch, the Financial District, Golden Gate Heights, Haight-Ashbury, the Mission District, Outer Mission, Pacific Heights, the Richmond District, the Tenderloin and the Castro. The service area will expand in the &#8220;near future,&#8221; Revel said. </span></p>
+<p dir="ltr">Only licensed drivers with the Revel app can rent the mopeds. Each Revel can carry up to two riders, is limited to local streets and is capped at a speed of 30 miles per hour. Revel rides will cost $1 per person to start, followed by $0.39 per minute to ride.</p><div class="piano-inline-promo"></div>
+<p id="speakable-summary">Each Revel moped is equipped with two U.S. DOT-certified helmets that must be worn at all times. The company also provides third-party liability insurance automatically to all riders.</p>
+<p>Revel, founded in March 2018 by <span style="font-family: arial, sans-serif;">Frank Reig and Paul Suhey, started with a pilot program in Brooklyn and later expanded to Queens. Revel has been on a fast-paced growth track, expanding to Austin, Miami and Washington, D.C in its first 18 months of operation. In January, the company launched in Oakland. </span><span style="font-family: arial, sans-serif;">The company also operates in sections of Manhattan, as well as south and central Bronx.</span></p>
+<p dir="ltr">Revel is a bit different than some of the shared mobility startups out there. The company doesn&#8217;t rely on gig economy workers to charge its mopeds — a method used by e-scooter companies like Bird. Instead, Revel has full-time workers that maintain the mopeds and swap out the batteries as needed.</p>
+<p dir="ltr">The company said it will begin hiring workers in San Francisco once it launches in August. Revel said it is participating in the First Source Hiring Program to find local employees.</p>
+<p dir="ltr">The startup raised <a href="https://techcrunch.com/2019/10/10/electric-moped-startup-revel-raises-27-6-million-as-it-eyes-new-markets/">$27.6 million in capital</a> last October in a Series A round led by Ibex Investors — funds required to fuel its expansion plans. The equity round included newcomer Toyota AI Ventures and further investments from Blue Collective, Launch Capital and Maniv Mobility.</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/93UNvkp2-ns" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/revel-lands-permit-to-bring-hundreds-of-electric-mopeds-to-san-francisco/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017959</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/revel-lands-permit-to-bring-hundreds-of-electric-mopeds-to-san-francisco/</feedburner:origLink></item>
+		<item>
+		<title>As VCs favor B2B startups, B2C upstarts’ venture activity falls</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/eKV8Isakdto/</link>
+					<comments>https://techcrunch.com/2020/07/16/as-vcs-favor-b2b-startups-b2c-upstarts-venture-activity-falls/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Wilhelm]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 15:12:06 +0000</pubDate>
+				<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[cb insights]]></category>
+		<category><![CDATA[CrunchBase]]></category>
+		<category><![CDATA[NVCA]]></category>
+		<category><![CDATA[pitchbook]]></category>
+		<category><![CDATA[The Exchange]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017845</guid>
+
+					<description><![CDATA[The Q2 2020 venture capital market did not bring a catastrophic slowdown to either the global private investment scene or the U.S.&#8217;s own VC scene. But inside the rosier-than-anticipated private capital results of the second quarter, there were pockets of weakness, and strength, that we should understand as we look to the rest of 2020 and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">The Q2 2020 venture capital market did not bring a <a href="https://techcrunch.com/2020/07/13/second-quarter-vc-investing-totals-appear-lackluster/">catastrophic slowdown to either the global private investment scene</a> or <a href="https://techcrunch.com/2020/07/14/covid-19-fails-to-stop-the-march-of-the-unicorns/">the U.S.&#8217;s own VC scene</a>. But inside the rosier-than-anticipated private capital results of the second quarter, there were pockets of weakness, and strength, that we should understand as we look to the rest of 2020 and the continuance of the pandemic-driven economy.</p>
+<hr />
+<p><strong><em>The Exchange explores startups, markets and money. You can read it <a href="https://techcrunch.com/subscribe/?tpcc=theexchange">every morning on Extra Crunch</a>, and you can now receive it in your inbox. Sign up <a href="https://techcrunch.com/newsletters">for The Exchange newsletter</a>, which will drop Saturdays starting July 25.</em></strong></p>
+<hr />
+<p>This morning we&#8217;re exploring trends detailed in the <a href="https://pitchbook.com/news/reports/q2-2020-pitchbook-nvca-venture-monitor">PitchBook-NVCA Q2 venture report</a>, adding to our coverage of similar data sets produced by competing venture and private business information sources <a href="https://www.cbinsights.com/">CB Insights</a> and <a href="https://crunchbase.com/">Crunchbase</a>.</p>
+<p><a href="https://techcrunch.com/subscribe/?tpcc=theexchange"><img class="alignright wp-image-1995212 size-medium" src="https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?w=300" alt="" width="300" height="300" srcset="https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg 900w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=150,150 150w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=300,300 300w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=768,768 768w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=680,680 680w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=32,32 32w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=50,50 50w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=64,64 64w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=96,96 96w, https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-gry.jpg?resize=128,128 128w" sizes="(max-width: 300px) 100vw, 300px" /></a>The NVCA data provides a useful cross section of venture activity beyond the usual quarterly totals, allowing us to better understand the diverging fortunes of domestic venture investment into business-serving startups (which appear strong), and investments into consumer-serving startups (which appear weak).</p>
+<p>It also provides a peek into AI/ML-focused investing, <a href="https://techcrunch.com/2020/04/30/vc-appetite-for-ai-startups-holds-up-in-q1-despite-lackluster-exit-volume/">a topic</a> <a href="https://techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/">that TechCrunch</a> <a href="https://techcrunch.com/2020/02/21/do-ai-startups-have-worse-economics-than-saas-shops/">has covered</a> <a href="https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/">extensively this year</a>. And, finally, we have a lens into recent U.S. VC results for startups that have at least one female founder, or were founded by all-women teams.</p>
+<p>Some of the news is positive, and some of it is less so. But we owe it to ourselves to understand all of it. So to wrap up <a href="https://techcrunch.com/tag/the-exchange/">our week&#8217;s dive into Q2 VC activity</a>, let&#8217;s get into our final look at the data, focusing today on the nuances of the United States&#8217;s own venture results.</p>
+<h2>B2B&#8217;s rise continues</h2>
+<p>As 2019 came to a close, <a href="https://techcrunch.com/2019/12/30/seed-investors-favor-enterprise-over-consumer-for-first-time-this-decade/">TechCrunch wrote about a notable trend</a>: Seed investors shifted their attention from consumer-focused startups to business-focused startups. Seed deals had moved from majority-B2C to majority-B2B, in other words.</p>
+<p><div class="extra-crunch-offer-container"></div><img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/eKV8Isakdto" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/as-vcs-favor-b2b-startups-b2c-upstarts-venture-activity-falls/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017845</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/as-vcs-favor-b2b-startups-b2c-upstarts-venture-activity-falls/</feedburner:origLink></item>
+		<item>
+		<title>Activ Surgical raises $15 million to advance autonomous and collaborative robotic surgery</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/cnteGlHO1l8/</link>
+					<comments>https://techcrunch.com/2020/07/16/activ-surgical-raises-15-million-to-advance-autonomous-and-collaborative-robotic-surgery/#respond</comments>
+		
+		<dc:creator><![CDATA[Darrell Etherington]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 14:56:28 +0000</pubDate>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Recent Funding]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Activ Surgical]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Artis Ventures]]></category>
+		<category><![CDATA[boston]]></category>
+		<category><![CDATA[endoscopy]]></category>
+		<category><![CDATA[fda]]></category>
+		<category><![CDATA[GreatPoint Ventures]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[medicine]]></category>
+		<category><![CDATA[real time data]]></category>
+		<category><![CDATA[software platform]]></category>
+		<category><![CDATA[surgery]]></category>
+		<category><![CDATA[tao capital partners]]></category>
+		<category><![CDATA[telemedicine]]></category>
+		<category><![CDATA[United States]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017950</guid>
+
+					<description><![CDATA[Boston-based startup Activ Surgical has raised a $15 million round of venture funding led by ARTIS Ventures, and including participation from LRVHealth, DNS Capital, GreatPoint Ventures, Tao Capital Partners and Rising Tide VC. The round will help Activ continue to develop and expand availability of its software platform, which it launched to market in May. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Boston-based startup <a href="https://www.activsurgical.com">Activ Surgical</a> has raised a $15 million round of venture funding led by ARTIS Ventures, and including participation from LRVHealth, DNS Capital, GreatPoint Ventures, Tao Capital Partners and Rising Tide VC. The round will help Activ continue to develop and expand availability of its software platform, which it launched to market in May.</p>
+<p><a class="crunchbase-link" href="https://crunchbase.com/organization/omniboros" target="_blank" data-type="organization" data-entity="omniboros">Activ Surgical&#8217;s <span class="crunchbase-tooltip-indicator"></span></a> <a href="https://techcrunch.com/2020/05/07/activ-surgical-launches-visualization-tech-for-making-surgeries-safer/">ActivEdge platform</a> uses data collected from surgical implements outfitted with sensors created by the company to collect real-time data during the actual surgical process. That data is then used to inform the development of machine learning and AI-based visualizations that can provide guidance to surgeons and surgical systems to help them reduce the occurrence of potential errors, and ultimately improve outcomes for patients.</p>
+<p>The company&#8217;s primary aim is to bring technological innovation to the sphere of surgical vision, which still relies primarily on methods like using fluorescent dyes that date back more than 70 years. Activ wants to use computer vision to provide real-time visual insight into things that surgeons wouldn&#8217;t be able to see on their own &#8212; and ultimately to use those insights to power the next generation of both collaborative surgical robots and eventually even fully autonomous robotic surgical procedures.</p><div class="piano-inline-promo"></div>
+<p>ActivSight is the company&#8217;s first product in its ActivEdge platform offering, and is a small, connected imaging coddle that can be attached to existing laparoscopic and arthroscopic surgical instruments. The company is currently tracking toward getting their hardware cleared by the FDA for use by Q4 this year, and are working with eight hospital partners for pilot projects in the U.S.</p>
+<p>The company has raised a total of $32 million in funding to date.</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/cnteGlHO1l8" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/activ-surgical-raises-15-million-to-advance-autonomous-and-collaborative-robotic-surgery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017950</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/activ-surgical-raises-15-million-to-advance-autonomous-and-collaborative-robotic-surgery/</feedburner:origLink></item>
+		<item>
+		<title>Uber acquires Routematch as it drives deeper into public transit in hunt for SaaS revenue</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/hXt9JjBadFg/</link>
+					<comments>https://techcrunch.com/2020/07/16/uber-acquires-routematch-as-it-drives-deeper-into-public-transit-in-hunt-for-saas-revenue/#respond</comments>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 13:27:05 +0000</pubDate>
+				<category><![CDATA[Automotive]]></category>
+		<category><![CDATA[Fundings & Exits]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Routematch]]></category>
+		<category><![CDATA[Uber]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017732</guid>
+
+					<description><![CDATA[Uber said Thursday it has acquired Routematch, an Atlanta-based company that provides software to transit agencies as the ride-hailing company looks to offer more SaaS-related services to cities. Uber did not share terms of the deal. However, it doesn&#8217;t appear to be a minor &#8220;acqui-hire,&#8221; in which a company is purchased to land a few [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary"><a class="crunchbase-link" href="https://crunchbase.com/organization/uber" target="_blank" data-type="organization" data-entity="uber">Uber <span class="crunchbase-tooltip-indicator"></span></a> said Thursday it has acquired <a href="https://www.routematch.com/">Routematch</a>, an Atlanta-based company that provides software to transit agencies as the ride-hailing company looks to offer more SaaS-related services to cities.</p>
+<p>Uber did not share terms of the deal. However, it doesn&#8217;t appear to be a minor &#8220;acqui-hire,&#8221; in which a company is purchased to land a few talented employees. Instead, Uber is making a strategic acquisition for a company that has developed software used by more than 500 transit agencies.</p>
+<p>The operations of the 170-person company will continue and CEO Pepper Harward will remain.</p><div class="piano-inline-promo"></div>
+<p>The acquisition marks Uber&#8217;s push to become a Software-as-a-Service (SaaS) provider to public transit agencies. Routematch&#8217;s software provides trip planning, vehicle tracking, payment and tools for fixed route transit like buses as well as paratransit services. The 20-year-old company has a wide range of customers, including rural and suburban enclaves.</p>
+<p>Last month, Uber <a href="https://www.marinij.com/2020/06/22/uber-app-to-host-marin-transit-options-local-discounts/">locked in a deal</a> to manage with a SaaS product an on-demand service for Marin County in the San Francisco Bay area. It was Uber&#8217;s first software partnership with a public transit agency.</p>
+<p>Uber&#8217;s foray into SaaS has been years in the making, David Reich, head of Uber Transit, said in a recent interview.</p>
+<p>&#8220;Uber knows that for cities to thrive, public transit has to thrive,&#8221; Reich said.</p>
+<p>Uber has been developing services related to public transit since 2015, first with a planning feature and then ticketing, Reich noted. The public transit feature called Journey Planning is available in more than 15 cities around the world, including the Marin area since 2019. The company has also <a href="https://techcrunch.com/2019/01/31/ubers-transit-offering-just-went-live-in-denver/">worked with Denver</a> and Las Vegas. In 2018, Uber partnered with mobile ticketing platform Masabi to let people book and use transit tickets from within the Uber app.</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/hXt9JjBadFg" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/uber-acquires-routematch-as-it-drives-deeper-into-public-transit-in-hunt-for-saas-revenue/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017732</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/uber-acquires-routematch-as-it-drives-deeper-into-public-transit-in-hunt-for-saas-revenue/</feedburner:origLink></item>
+		<item>
+		<title>Openpath’s security system for physical access gets a $36 million boost</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/S6JsHhAX6U0/</link>
+					<comments>https://techcrunch.com/2020/07/16/openpaths-security-system-for-physical-access-gets-a-36-million-boost/#respond</comments>
+		
+		<dc:creator><![CDATA[Jonathan Shieber]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 13:23:33 +0000</pubDate>
+				<category><![CDATA[Recent Funding]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[california]]></category>
+		<category><![CDATA[cloud applications]]></category>
+		<category><![CDATA[greycroft]]></category>
+		<category><![CDATA[Los Angeles]]></category>
+		<category><![CDATA[Okta]]></category>
+		<category><![CDATA[Okta Ventures]]></category>
+		<category><![CDATA[OpenPath]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017884</guid>
+
+					<description><![CDATA[Openpath, the developer of software-based security systems for office access, has raised $36 million in new financing as businesses try to find ways to make employees feel more comfortable about coming back to work. The round was led by Greycroft, which had been following the company&#8217;s progress for years, and included participation from strategic investors [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary"><a href="http://www.openpath.com/">Openpath</a>, the developer of software-based security systems for office access, has raised $36 million in new financing as businesses try to find ways to make employees feel more comfortable about coming back to work.</p>
+<p>The round was led by <a class="crunchbase-link" href="https://crunchbase.com/organization/greycroft" target="_blank" data-type="organization" data-entity="greycroft">Greycroft, <span class="crunchbase-tooltip-indicator"></span></a> which had been following the company&#8217;s progress for years, and included participation from strategic investors like <a class="crunchbase-link" href="https://crunchbase.com/organization/okta" target="_blank" data-type="organization" data-entity="okta">Okta <span class="crunchbase-tooltip-indicator"></span></a> Ventures, the venture capital investment arm of Lincoln Property Companies, Allegion Ventures and Sentre, and included follow-on from existing investors.</p>
+<p>For the greater Los Angeles-based <a class="crunchbase-link" href="https://crunchbase.com/organization/openpath-security-inc" target="_blank" data-type="organization" data-entity="openpath-security-inc">Openpath, <span class="crunchbase-tooltip-indicator"></span></a> the new funding offers a chance to boost its sales and marketing efforts and develop new security-focused products for companies and property managers trying to woo tenants back to the shared office space during a global pandemic.</p><div class="piano-inline-promo"></div>
+<p>“Openpath is clearly one of the most innovative companies in PropTech. Their solution has been rapidly accepted by the market and it&#8217;s clear to me they will be the leading access security platform for the built world, &#8221; said Mark Terbeek, a partner at Greycroft, in a statement. &#8220;We have followed this team closely since their launch and preempted their fundraise plans, along with a host of important strategic investors, to lead this new round of capital. We are thrilled to be an investor as they execute on their ambitious road map and bring critical new solutions to a marketplace suddenly impacted by COVID-19.”</p>
+<p>According to Openpath, Greycroft made it clear that they wanted to pre-empt any fundraising process the company would have attempted later in the year, so the firm and the company began to work on a round over the past quarter &#8212; even as the COVID-19 epidemic was spreading in the U.S.</p>
+<p>Openpath also noted that the strategic partners involved in the round had worked with the company for at least a year, leading to a relatively smooth investment process.</p>
+<p>What&#8217;s attractive to the investors &#8212; and to potential customers &#8212; is likely the company&#8217;s deep integration with <a class="crunchbase-link" href="https://crunchbase.com/organization/okta" target="_blank" data-type="organization" data-entity="okta">Okta <span class="crunchbase-tooltip-indicator"></span></a> for digital identification and the use of the mobile-based credential and permission-based software that gets rid of the need for key cards or physical identifiers. Both Hines and Lincoln Property Company use the service to give landlords and tenants control over who can access properties.</p>
+<p>The new funding offers Openpath a chance to boost its sales and marketing efforts and develop new security-focused products for companies and property managers trying to woo tenants back to the shared office space during a global pandemic.</p>
+<p>The argument from Openpath&#8217;s chief executive Alex Kazerani is that as more workers push for flexible work schedules that incorporate an office and remote work, companies will need more controls over access.</p>
+<p>&#8220;Our technology offers instant mobile credentials, virtual guest passes, remote unlock capabilities, and accommodate [sic] schedule management to comply with social distancing,&#8221; he wrote in an email. &#8220;Being able to manage the security of your building and employees while you are remote is crucial.&#8221;</p>
+<div>
+<div>
+<div></div>
+</div>
+</div>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/S6JsHhAX6U0" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/openpaths-security-system-for-physical-access-gets-a-36-million-boost/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017884</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/openpaths-security-system-for-physical-access-gets-a-36-million-boost/</feedburner:origLink></item>
+		<item>
+		<title>New lo-fi, text-based social app Lex, for queer women, raises $1.5 million</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/SI6mInZR_5k/</link>
+					<comments>https://techcrunch.com/2020/07/16/new-lo-fi-text-based-social-app-lex-for-queer-women-raises-1-5-million/#respond</comments>
+		
+		<dc:creator><![CDATA[Jordan Crook]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 13:00:28 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Recent Funding]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Female Founders Fund]]></category>
+		<category><![CDATA[Lex]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017837</guid>
+
+					<description><![CDATA[Lex, a new social app for women, trans, genderqueer and non-binary people offering the ability to post personal ads, has today announced the close of a $1.5 million seed funding round. Investors in the round include Corigin Ventures, X-Factor Ventures and Tusk Ventures, as well as angels Michelle Kennedy (Peanut), Andy Dunn (Bonobos) Amanda Bradford [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary"><a href="https://thisislex.app/">Lex</a>, a new social app for women, trans, genderqueer and non-binary people offering the ability to post personal ads, has today announced the close of a $1.5 million seed funding round.</p>
+<p>Investors in the round include Corigin Ventures, X-Factor Ventures and Tusk Ventures, as well as angels Michelle Kennedy (Peanut), Andy Dunn (Bonobos) Amanda Bradford (The League), Rei Wang (The Grand), Bumble Fund, Elisabeth Hartley, Tavi Gevinson, Nisha Dua, A.G. Breitenstein, Albert Lee, Alice Cheng, Justin Stefano, Piera Gelardi, Philippe von Borries, Debbie Millman and Roxane Gay. <a class="crunchbase-link" href="https://crunchbase.com/organization/female-founders-fund" target="_blank" data-type="organization" data-entity="female-founders-fund">Female Founders Fund <span class="crunchbase-tooltip-indicator"></span></a> led the round.</p>
+<p>Short for Lexicon, Lex was founded by Kell Rakowski, who originally rose to some prominence after starting an Instagram account called Herstory that curated cool lesbian content from the 1800s to the 90s, including the Personals Ads found in the backs of lesbian erotica magazines from the 80s.</p><div class="piano-inline-promo"></div>
+<p>&#8220;[The personal ads] were just so hot, and so cool,&#8221; said Rakowski. &#8220;They were really witty and the women were super direct, and were able to express themselves in a really clear and inspiring way.&#8221;</p>
+<p>Rakowski had an idea: What if the queer personal ad came back? She asked her Herstory followers if they&#8217;d want to post their own personals and the premise quickly took off, with hundreds of personal ads flooding in over the two-day period each month when submissions were open.</p>
+<p>The popularity of the format led to yet another idea. Rakowski decided to set up a dating/social app that was focused on these text-based personal ads for women, trans, genderqueer and non-binary people.</p>
+<p>Lex, which launched on the App Store in November 2019, is an MVP that does just that.</p>
+<p>Users can set up their own profile and post personals, as well as browse the feed of other personals and like the ones that pique their interest. While the personals themselves can be rather graphic, the app is not. There are currently no pictures on Lex, with the caveat that users can link out to their Instagram account if they so choose.</p>
+<p>Rather, users can browse through the text-based personals and like them, or message the author of the personal to start up a conversation.</p>
+<p>[gallery ids="2017871,2017872,2017870"]</p>
+<p>Moreover, unlike traditional dating apps, there is no mutuality required to start a private conversation. In other words, people don&#8217;t have to be &#8220;matched&#8221; to chat. Just like the personal ads of yesteryear, the author sends out a call for responses and the responses flow in.</p>
+<p>It&#8217;s still early days for the app, but Rakowski has plans to set up the ability to post pictures to profiles (which would not be included in the feed, but would be clickable should the text intrigue you), as well as adding group chat to the app for folks looking to build community.</p>
+<p>Lex also has plans to eventually introduce a freemium subscription model to the app, giving users extended functionality for a monthly price. For now, however, the focus is on growth and building out the app.</p>
+<p>With the new funding, Lex is looking to hire underrepresented talent in tech for product and engineering positions. The team, comprised of five people, is currently 80% cis women and 20% cis men, with 80% identifying as LGBTQ. Three of the five team members are people of color.</p>
+<p>Lex is being aggressive about this hiring sprint, <a href="https://www.notion.so/Lex-Jobs-e80dc5c9af2c438aa48ecd7310e32283">posting its open positions</a> on the app and on Instagram.</p>
+<p>&#8220;I&#8217;ve gotten so many incredible queer tech talent applying for positions at Lex,&#8221; said Rakowski. &#8220;It&#8217;s so inspiring and also emotional. People are writing the most beautiful emails about how much they like Lex. Hiring is 100% our main focus.&#8221;</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/SI6mInZR_5k" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/new-lo-fi-text-based-social-app-lex-for-queer-women-raises-1-5-million/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017837</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/new-lo-fi-text-based-social-app-lex-for-queer-women-raises-1-5-million/</feedburner:origLink></item>
+		<item>
+		<title>Qumulo scores $125M Series E on $1.2B valuation as storage biz accelerates</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/Bp5srfFdQZ4/</link>
+					<comments>https://techcrunch.com/2020/07/16/qumulo-scores-125m-series-e-on-1-2b-valuation-as-storage-biz-accelerates/#respond</comments>
+		
+		<dc:creator><![CDATA[Ron Miller]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 13:00:04 +0000</pubDate>
+				<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Recent Funding]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Storage]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[BlackRock]]></category>
+		<category><![CDATA[hybrid cloud]]></category>
+		<category><![CDATA[Qumulo]]></category>
+		<category><![CDATA[seattle startups]]></category>
+		<category><![CDATA[unicorns]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017849</guid>
+
+					<description><![CDATA[Qumulo, a Seattle storage startup helping companies store vast amounts of data, announced a $125 million Series E investment today on a $1.2 billion valuation. BlackRock led the round with help from Highland Capital Partners, Madrona Venture Group, Kleiner Perkins and new investor Amity Ventures. The company reports it has now raised $351 million. CEO [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary"><a href="https://qumulo.com/">Qumulo</a>, a Seattle storage startup helping companies store vast amounts of data, announced a $125 million Series E investment today on a $1.2 billion valuation.</p>
+<p><a class="crunchbase-link" href="https://crunchbase.com/organization/blackrock" target="_blank" data-type="organization" data-entity="blackrock">BlackRock <span class="crunchbase-tooltip-indicator"></span></a> led the round with help from Highland Capital Partners, Madrona Venture Group, Kleiner Perkins and new investor Amity Ventures. The company reports it has now raised $351 million.</p>
+<p>CEO Bill Richter says the valuation is more than 2x its most recent round, a $93 million Series D in 2018. While the valuation puts his company in the unicorn club, he says that it&#8217;s more important than simple bragging rights. &#8220;It puts us in the category of raising at a billion-plus dollar level during a very complicated environment in the world. Actually, that&#8217;s probably the more meaningful news,&#8221; he told TechCrunch.</p><div class="piano-inline-promo"></div>
+<p>It typically hasn&#8217;t been easy raising money during the pandemic, but Richter reports the company started getting inbound interest in March just before things started shutting down nationally. What&#8217;s more, as the company&#8217;s quarter closed at the end of April, they had grown almost 100% year over year, and beaten their pre-COVID revenue estimate. He says they saw that as a signal to take additional investment.</p>
+<p>&#8220;When you&#8217;re putting up nearly 100% year over year growth in an environment like this, I think it really draws a lot of attention in a positive way,&#8221; he said. And that attention came in the form of a huge round that closed this week.</p>
+<p>What&#8217;s driving that growth is that the amount of unstructured data, which plays to the company&#8217;s storage strength, is accelerating during the pandemic as companies move more of their activities online. He says that when you combine that with a shift to the public cloud, he believes that <a class="crunchbase-link" href="https://crunchbase.com/organization/qumulo" target="_blank" data-type="organization" data-entity="qumulo">Qumulo <span class="crunchbase-tooltip-indicator"></span></a> is well positioned.</p>
+<p>Today the company has 400 customers and more than 300 employees, with plans to add another 100 before year&#8217;s end. As he adds those employees, he says that part of the company&#8217;s core principles includes building a diverse workforce. &#8220;We took the time as an organization to write out a detailed set of hiring practices that are designed to root out bias in the process,&#8221; he said.</p>
+<p>One of the keys to that is looking at a broad set of candidates, not just the ones you&#8217;ve known from previous jobs. &#8220;The reason for that is that when you force people to go through hiring practices, you open up the position to a broader, more diverse set of candidates and you stop the cycle of continuously creating what I call &#8216;club memberships&#8217;, where if you were a member of the club before you&#8217;re a member in the future,&#8221; he says.</p>
+<p>The company has been around since 2012 and spent the first couple of years conducting market research before building its first product. In 2014 it released a storage appliance, but over time it has shifted more toward hybrid solutions.</p>
+<div class="embed breakout">
+<blockquote class="wp-embedded-content" data-secret="ZPaGluZhnW"><p><a href="https://techcrunch.com/2015/02/04/stealthy-seattle-storage-startup-qumulo-snags-40m-investment/">Stealthy Seattle Storage Startup Qumulo Snags $40M Investment</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Stealthy Seattle Storage Startup Qumulo Snags $40M Investment&#8221; &#8212; TechCrunch" src="https://techcrunch.com/2015/02/04/stealthy-seattle-storage-startup-qumulo-snags-40m-investment/embed/#?secret=ZPaGluZhnW" data-secret="ZPaGluZhnW" width="800" height="450" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/Bp5srfFdQZ4" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/qumulo-scores-125m-series-e-on-1-2b-valuation-as-storage-biz-accelerates/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017849</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/qumulo-scores-125m-series-e-on-1-2b-valuation-as-storage-biz-accelerates/</feedburner:origLink></item>
+		<item>
+		<title>Waldo is a ‘no code’ automated mobile testing service that anyone can use</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/_ldFXOMLS-8/</link>
+					<comments>https://techcrunch.com/2020/07/16/waldo-is-a-no-code-automated-mobile-testing-service-that-anyone-can-use/#respond</comments>
+		
+		<dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 12:45:48 +0000</pubDate>
+				<category><![CDATA[Developer]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[automated testing]]></category>
+		<category><![CDATA[no code]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[waldo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017797</guid>
+
+					<description><![CDATA[Meet Waldo, a new product that wants to make mobile testing both faster and easier. The New York-based startup lets you record tests in your browser by interacting with your app like you’d normally do. Every time you compile a new build, Waldo runs the same tests you previously recorded on multiple software and hardware [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Meet <a href="https://www.waldo.io">Waldo</a>, a new product that wants to make mobile testing both faster and easier. The New York-based startup lets you record tests in your browser by interacting with your app like you’d normally do. Every time you compile a new build, Waldo runs the same tests you previously recorded on multiple software and hardware models to tell you if everything works fine.</p>
+<p>If you’re an app developer, you currently have two possibilities. You can keep a bunch of smartphones and run your current build on these devices to see if there’s anything wrong, but it takes a ton of time. Or you can develop testing scripts that validate the core features of your app — but that requires additional development and creates a whole new set of headaches when you need to update your scripts.</p>
+<p>“It’s always a bit weird that we can create incredible experiences when it comes to UX, but that the way we test those apps is outdated,” co-founder and CEO Amine Bellakrid told me.</p><div class="piano-inline-promo"></div>
+<p>Waldo wants to lower the barrier to entry and let smaller mobile development teams take advantage of automated functional and UI testing. It is part of a bigger trend of &#8220;no code&#8221; startups — no technical skills required.</p>
+<p>The company raised a $6.5 million round led by First Round Capital (with Josh Kopelman), with existing investor Matrix Partners and business angels also participating.</p>
+<div class="embed breakout">
+<blockquote class="wp-embedded-content" data-secret="5nRUQx2pzG"><p><a href="https://techcrunch.com/2020/07/07/no-code-will-define-the-next-generation-of-software/">&#8216;No code&#8217; will define the next generation of software</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;&#8216;No code&#8217; will define the next generation of software&#8221; &#8212; TechCrunch" src="https://techcrunch.com/2020/07/07/no-code-will-define-the-next-generation-of-software/embed/#?secret=5nRUQx2pzG" data-secret="5nRUQx2pzG" width="800" height="450" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+<p>Creating tests on Waldo is pretty straightforward. The product runs your app directly (.app / .ipa / .apk), which means you don’t have to create a special version of your app to take advantage of the platform.</p>
+<p>After uploading your app, you see your app running in your browser window. Waldo records every screen and every action you take. For instance, you can record the signup flow or a feature that lets you upload content.</p>
+<p><div id="attachment_2017798" style="width: 1034px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-2017798" class="size-full wp-image-2017798" src="https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png" alt="" width="1024" height="768" srcset="https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png 3225w, https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png?resize=150,113 150w, https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png?resize=300,225 300w, https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png?resize=768,576 768w, https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png?resize=680,510 680w, https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png?resize=1536,1152 1536w, https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png?resize=2048,1536 2048w, https://techcrunch.com/wp-content/uploads/2020/07/1-easily-record-test.png?resize=50,38 50w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-2017798" class="wp-caption-text"><strong>Image Credits:</strong> Waldo</p></div></p>
+<p>When you’re done recording your tests, Waldo keeps them for future versions. Every time you have a new build of your mobile app, Waldo runs the same tests on that new version. In addition to that, Waldo can run those tests on other devices with different screen sizes, older versions of mobile operating systems and in different languages.</p>
+<p>If a test fails, users get notified and can browse the replay of the test. You can see exactly what went wrong to spot the problematic step more easily.</p>
+<p>The idea is that you set up Waldo once and let it run in the background. It integrates with popular continuous integration (CI) tools, such as Fastlane, Bitrise and CircleCI. You can receive alerts in Slack or see the status of your test results in GitHub directly.</p>
+<p>“We have customers that run 500 tests at once every week or we have customers that run 10 to 15 tests multiple times a day,” Bellakrid said.</p>
+<p>Waldo is launching a free plan today to kick the tires, and you can then pay a subscription to run more tests. Some companies have started using Waldo already, such as AllTrails, Jumprope, KeepSafe and Elevate. Right now, Waldo only works with iOS apps, but the team is already working on adding Android support in the future.</p>
+<p><div id="attachment_2017800" style="width: 1034px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-2017800" class="size-full wp-image-2017800" src="https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png" alt="" width="1024" height="768" srcset="https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png 3225w, https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png?resize=150,113 150w, https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png?resize=300,225 300w, https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png?resize=768,576 768w, https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png?resize=680,510 680w, https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png?resize=1536,1152 1536w, https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png?resize=2048,1536 2048w, https://techcrunch.com/wp-content/uploads/2020/07/3-fix-your-test-easily.png?resize=50,38 50w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-2017800" class="wp-caption-text"><strong>Image Credits:</strong> Waldo</p></div></p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/_ldFXOMLS-8" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/waldo-is-a-no-code-automated-mobile-testing-service-that-anyone-can-use/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017797</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/waldo-is-a-no-code-automated-mobile-testing-service-that-anyone-can-use/</feedburner:origLink></item>
+		<item>
+		<title>Meditation app Meditopia secures $15M Series A co-led by Creandum and Highland</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/1SMDsqkDUKI/</link>
+					<comments>https://techcrunch.com/2020/07/16/meditation-app-meditopia-secures-15m-series-a-co-led-by-creandum-and-highland/#respond</comments>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 11:28:51 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Recent Funding]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[app-store]]></category>
+		<category><![CDATA[articles]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[carl fritjofsson]]></category>
+		<category><![CDATA[Creandum]]></category>
+		<category><![CDATA[gamification]]></category>
+		<category><![CDATA[Headspace]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Highland Europe]]></category>
+		<category><![CDATA[Istanbul]]></category>
+		<category><![CDATA[Meditopia]]></category>
+		<category><![CDATA[mental health]]></category>
+		<category><![CDATA[sensor tower]]></category>
+		<category><![CDATA[Turkey]]></category>
+		<category><![CDATA[well being]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017823</guid>
+
+					<description><![CDATA[The COVID-19 pandemic continues to impact us in ways that stretch well beyond our physical health, and one side effect of that in the tech world has been a surge of attention for apps that address mental health and help with mindfulness. According to a recent report from app store intelligence firm Sensor Tower, the [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">The COVID-19 pandemic continues to impact us in ways that stretch well beyond our physical health, and one side effect of that in the tech world has been a surge of attention for apps that address mental health and help with mindfulness. According to a <a href="https://techcrunch.com/2020/05/28/meditation-and-mindfulness-apps-continue-their-surge-amid-pandemic/">recent report</a> from app store intelligence firm Sensor Tower, the world’s 10 largest English-language mental wellness apps in April saw a combined 2 million more downloads during the month of April 2020 compared with January, reaching close to 10 million total downloads for the month.</p>
+<p>Among market leaders such as Calm and <a class="crunchbase-link" href="https://crunchbase.com/organization/headspace" target="_blank" data-type="organization" data-entity="headspace">Headspace <span class="crunchbase-tooltip-indicator"></span></a> that have become big hits was a name that may be a little less familiar: <a href="https://meditopia.com/en/">Meditopia</a>. Quietly, it has become the most-downloaded meditation app in non-English speaking markets.</p>
+<p>Today the eponymous Istanbul and <a class="crunchbase-link" href="https://crunchbase.com/organization/berlin" target="_blank" data-type="organization" data-entity="berlin">Berlin <span class="crunchbase-tooltip-indicator"></span></a>-based startup is announcing some funding to continue driving that growth &#8212; a Series A investment of $15 million co-led by Creandum and <a class="crunchbase-link" href="https://crunchbase.com/organization/highland-capital-partners-europe" target="_blank" data-type="organization" data-entity="highland-capital-partners-europe">Highland Europe <span class="crunchbase-tooltip-indicator"></span></a>. Carl Fritjofsson of Creandum and Fergal Mullen of Highland Europe will join Meditopia’s board with the deal. Total funding prior to this round was $3.2 million, and this new round takes the total raised by <a class="crunchbase-link" href="https://crunchbase.com/organization/the-meditation-company" target="_blank" data-type="organization" data-entity="the-meditation-company">Meditopia <span class="crunchbase-tooltip-indicator"></span></a> to $18.2 million.</p><div class="piano-inline-promo"></div>
+<p>The meditation market &#8212; quite paradoxically, when you think about it &#8212; is kind of chaotic and crowded. Meditopia&#8217;s unique selling point within that, however, has been that it has majored on localization for 75 global markets, in 10 languages, with a focus on long-term mental well-being programs. In a world in which English has for some become something of a questionable lingua franca in tech, that&#8217;s helped it stand out and pick up more users and gain scale. In the three years since it launched in 2017, Meditopia has grown to 14 million users across 75 countries.</p>
+<p>Until recently, most meditation and mental health apps were built to suit the needs of English-speaking, Western culture, especially in the way these apps dealt with topics such as gender.</p>
+<p>The startup was founded by Fatih Celebi, Berk Yilmaz and Ali Murat Ceylan.</p>
+<p>In a statement, Murat said: “Mental wellness is something everyone should be able to achieve, regardless of their country of origin, native language, socio-economic status, ethnicity, or religion. We first focused our efforts on our home country Turkey before expanding worldwide so whether you are Latino, Japanese, Russian, North American, or Arab, you can find support and coaching in our global community.”</p>
+<p><a class="crunchbase-link" href="https://crunchbase.com/person/carl-fritjofsson" target="_blank" data-type="person" data-entity="carl-fritjofsson">Carl Fritjofsson, <span class="crunchbase-tooltip-indicator"></span></a> partner at <a class="crunchbase-link" href="https://crunchbase.com/organization/creandum" target="_blank" data-type="organization" data-entity="creandum">Creandum <span class="crunchbase-tooltip-indicator"></span></a> commented: “We&#8217;ve followed Meditopia for the past two years and have been incredibly impressed by how they&#8217;ve been able to capture this opportunity across the world, all while being one of the most capital-efficient run companies around.&#8221;</p>
+<p>Fergal Mullen, founding partner at <a class="crunchbase-link" href="https://crunchbase.com/organization/highland-capital-partners-europe" target="_blank" data-type="organization" data-entity="highland-capital-partners-europe">Highland Europe, <span class="crunchbase-tooltip-indicator"></span></a> said: “For too long, the technology available was created for English-speaking groups alone. Meditopia provides the alternative; a solution that helps its members get to the heart of what they need in a way that suits them. We’re thrilled to be a part of getting this vital service to those people.”</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/1SMDsqkDUKI" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/meditation-app-meditopia-secures-15m-series-a-co-led-by-creandum-and-highland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017823</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/meditation-app-meditopia-secures-15m-series-a-co-led-by-creandum-and-highland/</feedburner:origLink></item>
+		<item>
+		<title>Indian online tutoring platform Vedantu raises $100 million</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/kTYlaCfsMkE/</link>
+					<comments>https://techcrunch.com/2020/07/16/indian-online-tutoring-platform-vedantu-raises-100-million/#respond</comments>
+		
+		<dc:creator><![CDATA[Manish Singh]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 11:00:35 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Asia]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Funding]]></category>
+		<category><![CDATA[Recent Funding]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[byju's]]></category>
+		<category><![CDATA[Coatue Management]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[Unacademy]]></category>
+		<category><![CDATA[Vedantu]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017803</guid>
+
+					<description><![CDATA[Investors are becoming more bullish on online education platforms in India as startups demonstrate growth at the height of a global pandemic that has severely impacted other industries. Bangalore-based startup Vedantu said on Thursday it has raised $100 million in its Series D financing round, just five months after it closed its Series C funding. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">Investors are becoming more bullish on online education platforms in India as startups demonstrate growth at the height of a global pandemic that has severely impacted other industries.</p>
+<p>Bangalore-based startup <a class="crunchbase-link" href="https://crunchbase.com/organization/vedantu-innovations" target="_blank" data-type="organization" data-entity="vedantu-innovations">Vedantu <span class="crunchbase-tooltip-indicator"></span></a> said on Thursday it has raised $100 million in its Series D financing round, just <a href="https://techcrunch.com/2020/02/13/indias-vedantu-scores-24m-more-for-its-online-tutoring-service/">five months after it closed its Series C funding</a>.</p>
+<p>U.S.-based Coatue led the six-year-old Vedantu’s new financing round, with participation from some existing investors. The new funds valued Vedantu at $600 million, up from $275 million in February this year when the startup closed its extended Series C round. Vedantu has raised about $200 million to date.</p><div class="piano-inline-promo"></div>
+<p><a href="https://www.vedantu.com/">Vedantu</a> offers live and interactive courses for students in grades six though 12 &#8212; and in recent months it has expanded its catalog to serve students from grade one to five as well, said Vamsi Krishna, co-founder and CEO of the startup, in an interview with TechCrunch.</p>
+<p>Students who have enrolled for the interactive sessions are required to answer questions every few minutes by tapping on their smartphone screen or on the desktop. They also can raise questions at the end of the session. Some of these sessions are free for students, but a selection of it requires a subscription, said Krishna.</p>
+<p>Vedantu serves 25 million students each month. The startup has amassed an additional 2 million students in recent months as schools closed across the nation after New Delhi enforced a lockdown.</p>
+<p>Krishna said Vedantu is adding to the platform more than 20,000 paying subscribers each month. More than one million students attend live classes on the platform each month, he said. In recent months, the startup has also introduced coding courses for students.</p>
+<p><div id="attachment_2017866" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-2017866" class="wp-image-2017866 size-full" src="https://techcrunch.com/wp-content/uploads/2020/07/blume-ventures-edtech.jpg" alt="" width="1024" height="409" srcset="https://techcrunch.com/wp-content/uploads/2020/07/blume-ventures-edtech.jpg 1400w, https://techcrunch.com/wp-content/uploads/2020/07/blume-ventures-edtech.jpg?resize=150,60 150w, https://techcrunch.com/wp-content/uploads/2020/07/blume-ventures-edtech.jpg?resize=300,120 300w, https://techcrunch.com/wp-content/uploads/2020/07/blume-ventures-edtech.jpg?resize=768,307 768w, https://techcrunch.com/wp-content/uploads/2020/07/blume-ventures-edtech.jpg?resize=680,272 680w, https://techcrunch.com/wp-content/uploads/2020/07/blume-ventures-edtech.jpg?resize=50,20 50w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-2017866" class="wp-caption-text">Opportunities for online education platforms in India, according to research by VC firm Blume Ventures.</p></div></p>
+<p>India has the largest school-age population in the world and households in the nation are willing to invest in their children’s education to advance their lives. About a million students look to pursue undergraduate courses each year, for instance.</p>
+<p>But the quality of education and its affordability are two major challenges that millions of students, especially those living in smaller cities and towns, have to confront. An offline coaching centre can have as many as 100 students sitting in the room, with most not getting a chance to engage with the teacher. But for some, it also means there aren’t many teachers left to teach them.</p>
+<p>Because Vedantu operates virtual classes, it has been able to accommodate more students in a session. A paid session may have as many as 600 students, while the free lessons could have 2,000, said Krishna, who is a teacher himself. Until early 2014, he also ran Lakshya Institute, which helped students prepare for undergraduate-level courses, before selling a majority stake to Mumbai-based K-12 tutoring and test preparation firm MT Educare.</p>
+<p>Running a tech platform has also enabled Vedantu to offer its subscription service at a more affordable price than a typical offline coaching equivalent that can cost users anything between a few hundred dollars to a few thousand. To ensure that students are paying attention and identify their weaknesses, Vedantu says it has built a patented system called WAVE that evaluates about 70 parameters, including whether the student is looking at the screen. More than 90% of its students engage with the session, said Krishna, who added that the startup was working on a new iteration of WAVE.</p>
+<p><div id="attachment_1875479" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1875479" class="size-full wp-image-1875479" src="https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg" alt="From Right to Left Vamsi Krishna CEO Co founder Anand Prakash Co founder Pulkit Jain Co Founder and Head Product" width="1024" height="576" srcset="https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg 3840w, https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg?resize=150,84 150w, https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg?resize=300,169 300w, https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg?resize=768,432 768w, https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg?resize=680,383 680w, https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg?resize=1536,864 1536w, https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg?resize=2048,1152 2048w, https://techcrunch.com/wp-content/uploads/2019/08/From-Right-to-Left_Vamsi-Krishna-CEO-Co-founder_Anand-Prakash-Co-founder-Pulkit-Jain-Co-Founder-and-Head-Product.jpg?resize=50,28 50w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-1875479" class="wp-caption-text">From left to right: Vamsi Krishna, CEO and co-founder; Anand Prakash, co-founder; and Pulkit Jain, co-founder and head of product. Image Credits: Vedantu.</p></div></p>
+<p>The fundraise by Vedantu comes as investors rush to secure deals with edtech startups in India and major giants look for merger and acquisition opportunities with younger firms. Byju&#8217;s, which is <a href="https://techcrunch.com/2020/06/25/mary-meekers-bond-invests-in-indian-online-learning-giant-byjus/">now valued at $10.5 billion</a>, raised an undisclosed amount from Mary Meeker&#8217;s Bond last month. Unacademy, which raised $110 million from General Atlantic, Sequoia Capital India <a href="https://techcrunch.com/2020/02/19/facebook-backs-indian-education-startup-unacademy/">and Facebook early this year</a>, is in talks with investors to finance its new round.</p>
+<p>Earlier this month, <a class="crunchbase-link" href="https://crunchbase.com/organization/unacademy" target="_blank" data-type="organization" data-entity="unacademy">Unacademy <span class="crunchbase-tooltip-indicator"></span></a> acquired PrepLadder, another online learning startup, <a href="https://techcrunch.com/2020/07/06/unacademy-prepladder-india/">for $50 million</a>. Days later it also acquired a majority stake in Mastree. TechCrunch reported last month that Byju&#8217;s <a href="https://techcrunch.com/2020/06/26/indian-edtech-giant-byjus-in-talks-to-acquire-doubtnut-for-more-than-125m/">was in talks to acquire Doubtnut</a>.</p>
+<p>&#8220;Online learning adoption in India is at an all-time high setting a new benchmark for the rest of the world. As we continue to focus on driving high-growth ventures, our investment in Vedantu marks our entry into the Indian EdTech market. This move underlines our strategy to partner with companies that are strategically positioned for high growth &amp; scale. We are excited to partner Vedantu in their next stage of growth,&#8221; said Rahul Kishore, managing director at Coatue, in a statement.</p>
+<p>Vedantu, which last month invested $2 million in InstaSolv, a startup that operates an app to help students clear their doubts, is open to investing in more startups as well, said Krishna.</p>
+<p>The fresh capital Vedantu has raised, he said, will be deployed to expand to new categories and reach more students, especially in smaller towns and cities of India. Existing investors Tiger Global, GGV Capital, Omidyar and Westbridge Capital also participated in the new round. Accel and Tiger Global are among the earliest investors in Vedantu.</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/kTYlaCfsMkE" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/indian-online-tutoring-platform-vedantu-raises-100-million/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017803</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/indian-online-tutoring-platform-vedantu-raises-100-million/</feedburner:origLink></item>
+		<item>
+		<title>UK’s Drover raises $26M to take its car subscription marketplace to Europe</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/ekn2MYzOJa4/</link>
+					<comments>https://techcrunch.com/2020/07/16/uks-drover-raises-26m-for-to-take-its-car-subscription-marketplace-to-europe/#respond</comments>
+		
+		<dc:creator><![CDATA[Ingrid Lunden]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 08:59:02 +0000</pubDate>
+				<category><![CDATA[Automotive]]></category>
+		<category><![CDATA[eCommerce]]></category>
+		<category><![CDATA[Europe]]></category>
+		<category><![CDATA[Recent Funding]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[car leasing]]></category>
+		<category><![CDATA[cars]]></category>
+		<category><![CDATA[Drover]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017755</guid>
+
+					<description><![CDATA[The future of transportation is in flux, and that continues to provide opportunities for tech companies to build solutions to provide new ways for us to get from A to B. In the latest development, a startup out of the U.K. called Drover that provides access to flexible car subscriptions for private users &#8212; longer [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary">The future of transportation is in flux, and that continues to provide opportunities for tech companies to build solutions to provide new ways for us to get from A to B. In the latest development, a startup out of the U.K. called <a href="http://joindrover.com" target="_blank" rel="noopener noreferrer">Drover</a> that provides access to flexible car subscriptions for private users &#8212; longer than a typical rental, shorter than a lease or purchase, and easy to shorten or extend as needed &#8212; is announcing some funding to continue its growth.</p>
+<p>The company has picked up £20.5 million ($25.7 million) in a round of funding co-led by three firms: Target Global, RTP Global (the Russian company formerly known as ru-Net) and Autotech Ventures. New investors Channel 4 Ventures and Rider Global, as well as <a href="https://techcrunch.com/2018/03/15/drover/" target="_blank" rel="noopener noreferrer">previous backers</a> Cherry Ventures, BP Ventures, Partech, Version One and Forward Partners also participated. Drover is not disclosing its valuation, and it has raised £27.5 million to date.</p>
+<p>The plan, CEO and founder Felix Leuschner said in an interview, is to use the money to continue investing in the technology it uses to calibrate prices and personalise offers for individuals, as well as to hire more talent and gear up for more expansion. Founded in the U.K., <a class="crunchbase-link" href="https://crunchbase.com/organization/drover" target="_blank" data-type="organization" data-entity="drover">Drover <span class="crunchbase-tooltip-indicator"></span></a> opened in France earlier this year, but in theory, wherever cars are sold and used is game. Drover&#8217;s growth to date seems to point to it being a strong candidate for driving ahead to new frontiers.</p><div class="piano-inline-promo"></div>
+<p>That&#8217;s because despite the huge drop in the economy in the last several months because of COVID-19, perhaps because of its flexible model &#8212; fitting for when you don&#8217;t know what is coming around the corner &#8212; Drover has seen business go up.</p>
+<p>&#8220;May and June have been our best two months on record for us since launching three years ago,&#8221; said Leuschner, who added that it is continuing to see an acceleration in the business, doubling in revenues year on year. &#8220;Every month should be the best month when you&#8217;re a growing startup, but we’ve seen acceleration even beyond that.&#8221;</p>
+<p>Car ownership is going through a critical phase at the moment.</p>
+<p>It was not that long ago when many people believed that the Ubers of the world, combined with other innovations in transportation like autonomous driving, improved public and communal transport models, on-demand rentals and new vehicles like electric bikes and scooters, would all combine to make it easier for individuals to forego traditional private car ownership altogether &#8212; the idea being that collectively, they would provide an economical, convenient and eco-friendly enough mix to make buying and maintaining a car obsolete.</p>
+<p>That idea might still have some mileage longer term (excuse the pun!), but current events have thrown it for a loop: the COVID-19 pandemic has meant that people are staying at home a lot more, and when they do go out, many are proactively eschewing transportation forms that involve sharing space or touching surfaces that others have touched.</p>
+<p>&#8220;We think this will lead to a renaissance for cars,&#8221; Leuschner said &#8212; a fact echoed by its investors.</p>
+<p>“Drover offers an attractive and affordable alternative to car ownership, which has proven to be extremely robust during the recent COVID-19 crisis with record high subscriber bookings,&#8221; said Anton Inshutin, partner at RTP Global, in a statement. &#8220;We fully share in Felix’s vision for Drover as the future European leader in the car-as-a-service market, and offered our support to the company in both Series A and Series B financings.”</p>
+<p>But even without a global health pandemic, there were a number of signals that pointed to the fact that &#8220;disruption&#8221; might not have been a quick and seamless transition anyway. We&#8217;re a long way off from actual autonomous cars (you know, the ones that are predicted to be so expensive and tricky to maintain that most will not own them but will subscribe to services to be driven around). The Ubers of the world haven&#8217;t actually sorted out their unit economics. Scooters can be dangerous. Etc.</p>
+<p><img class="alignright wp-image-2017776" src="https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-16-at-09.54.28.png?w=563" alt="" width="486" height="586" srcset="https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-16-at-09.54.28.png 996w, https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-16-at-09.54.28.png?resize=124,150 124w, https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-16-at-09.54.28.png?resize=249,300 249w, https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-16-at-09.54.28.png?resize=768,927 768w, https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-16-at-09.54.28.png?resize=563,680 563w, https://techcrunch.com/wp-content/uploads/2020/07/Screenshot-2020-07-16-at-09.54.28.png?resize=41,50 41w" sizes="(max-width: 486px) 100vw, 486px" />For better or worse, all of that brings us back to private cars, and the opportunity to play around with different ways of providing these to individuals, opening the door to companies like Drover to tap those who may have started to part with the idea of owning a car outright, but have yet to let go of the idea of using a private car altogether.</p>
+<p>Target demographics, Leuschner said, are people in their 20s and 30s who have some disposable income for a car and are more likely to be keen to pay the premium on incremental ownership to forego total cost of ownership, if it proves to be cheaper than leasing for the one-month minimum of usage on Drover (which appears to be Drover&#8217;s main competitor).</p>
+<h2>Not all is Fair</h2>
+<p>Others have attempted to tackle the subscription car market before, also focusing on customers that want to have the use of cars for more than just an hour or a day or even a week but don&#8217;t want to pay out to own them outright or get locked into long leases.</p>
+<p>One of those &#8212; <a href="http://fair.com" target="_blank" rel="noopener noreferrer">Fair</a> in the U.S. &#8212; looked to be especially promising with big-name founders raising <a href="https://techcrunch.com/2018/12/20/fair-com-gets-385m-led-by-softbank-to-grow-its-flexible-car-ownership-model-globally/" target="_blank" rel="noopener noreferrer">hundreds of millions of dollars</a> in equity and debt from companies, including SoftBank. But it ultimately faced a <a href="https://techcrunch.com/2020/02/06/uber-fair-go-shut-down/" target="_blank" rel="noopener noreferrer">spectacular implosion</a>, unable to get the business model right.</p>
+<p>Leuschner contends that while Drover might sound like the same model as Fair, it&#8217;s actually a very different vehicle on the inside. For starters, some two-thirds of its inventory is sourced from dealerships, OEMs and others that distribute cars.</p>
+<p>They use Drover as another channel, in part to diversify distribution, and in part as a way of tapping stock that it&#8217;s not able to sell through other channels. The remaining one-third is brought in by Drover, which means that the startup gets better margins on those vehicles as the owner of the vehicles, but also means higher risk for the startup &#8212; one of the areas where Drover&#8217;s technology comes into play.</p>
+<p>&#8220;It’s an optimisation game for us,&#8221; said Leuschner. &#8220;When you have open inventory you get a better margin but more risk. We are at that point where we know what the best vehicles are for our customer base and we have a lot of data and trading history. We’re comfortable taking some risk and higher margin structure in those cases.&#8221;</p>
+<p>Another key difference is that Drover is also only focusing squarely on private individuals, rather than working on subscriptions for professional drivers. That has meant that the drop off in business from those users, which some car leasing companies have seen as a knock-on effect from the fall in demand on ridesharing platforms, hasn&#8217;t had an impact for Drover.</p>
+<p>It&#8217;s nonetheless a big market with many opportunities for growth. Online car sales are still only 1% of all sales in the U.K., he said, which is far below the rate of sales for retail goods at 20% (one reason that might be obvious: the bigger the ticket, the more likely people will want to see the goods in person). All of that is gradually shifting &#8212; not least because more recognised names are coming into the fold, and providing more legitimacy and guarantees in the process, and that opens the door to companies like Drover, too.</p>
+<p>“By tapping into ongoing digitalisation and on-demand trends in tandem, Felix and his team are well poised to aggressively seize market share from traditional car retailers,&#8221; said Ben Kaminski, partner at Target Global, in a statement. &#8220;This new capital injection is a testament to both the team and the tech behind Drover which is disrupting the car-ownership model for the better. We’re excited to offer our support as Drover continues to scale throughout Europe.”</p>
+<p>Daniel Hoffer, managing director at Autotech Ventures, added in his own statement: “After studying the European landscape closely, we believe that Drover’s unique focus on a next-generation customer experience enabled by an asset-light approach has the potential to revolutionize how Europeans relate to car ownership. Bolstered by strong execution, Drover is poised to emerge stronger as a result of COVID-19 and recession-driven changes to consumer preferences in the ground transportation domain.”</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/ekn2MYzOJa4" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/16/uks-drover-raises-26m-for-to-take-its-car-subscription-marketplace-to-europe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017755</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/16/uks-drover-raises-26m-for-to-take-its-car-subscription-marketplace-to-europe/</feedburner:origLink></item>
+		<item>
+		<title>Benchmark-backed Optimizely confirms it has laid off 15% of staff</title>
+		<link>http://feedproxy.google.com/~r/techcrunch/startups/~3/kbpbRTfKcx4/</link>
+					<comments>https://techcrunch.com/2020/07/15/benchmark-backed-optimizely-confirms-it-has-laid-off-15-percent-of-staff/#respond</comments>
+		
+		<dc:creator><![CDATA[Natasha Mascarenhas]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2020 22:02:42 +0000</pubDate>
+				<category><![CDATA[Personnel]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[A/B testing]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[enterprise software]]></category>
+		<category><![CDATA[layoffs]]></category>
+		<category><![CDATA[Optimizely]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2017398</guid>
+
+					<description><![CDATA[Optimizely, a San Francisco-based startup that popularized the concept of A/B testing, has laid off 15% of its staff, the company confirmed in a statement to TechCrunch. The layoff impacts around 60 people, and those laid off were given varied levels of severance. Each employee was given six months of COBRA and was allowed to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p id="speakable-summary"><a href="https://www.optimizely.com/">Optimizely</a>, a San Francisco-based startup that popularized the concept of A/B testing, has laid off 15% of its staff, the company confirmed in a statement to TechCrunch. The layoff impacts around 60 people, and those laid off were given varied levels of severance. Each employee was given six months of COBRA and was allowed to keep their laptops.</p>
+<p>“As with so many other businesses globally, <a class="crunchbase-link" href="https://crunchbase.com/organization/optimizely" target="_blank" data-type="organization" data-entity="optimizely">Optimizely <span class="crunchbase-tooltip-indicator"></span></a> has been impacted by COVID-19. Today, we have had to make a heartbreaking decision to reduce the size of our workforce,” Erin Flynn, chief people office, wrote in a statement to TechCrunch, adding that “today’s difficult decision sets up our business for continued success.”</p>
+<p>The startup was founded in 2009 by Dan Siroker and Pete Koomen on the idea that it helps to have customers experience different versions of the website, also known as A/B testing, to see what iteration sticks best. A year after founding, the startup went through Y Combinator and in 2013 it signed a lease for a 56,000-square-foot office in San Francisco.</p>
+<p>Optimizely last raised $50 million in <a href="https://www.prnewswire.com/news-releases/optimizely-announces-series-d-funding-led-by-goldman-sachs-catapulting-digital-experience-optimization-into-the-mainstream-300869991.html">Series D financing from Goldman Sachs</a>, bringing its total venture capital secured to date to $200 million. Other investors include Index Ventures, Andreessen Horowitz and GV.</p>
+<p>In June, Optimizely said it handles more than 6 billion events a day. Customers include Visa, BBC, IBM, The Wall Street Journal, Gap, StubHub and Metromile.</p>
+<p>Optimizely was not listed as applying for a PPP loan, a program created by the government to help businesses avoid laying off staff. The loans were met with controversy in Silicon Valley, as some thought venture-backed businesses should turn to investors, instead of the government, for extra capital.</p>
+<p>Optimizely’s layoffs are somewhat surprising, given <a href="https://techcrunch.com/2020/06/04/saas-earnings-rise-as-pandemic-pushes-companies-more-rapidly-to-the-cloud/">recent earnings reports</a> that show that enterprise SaaS companies have broadly benefited from the coronavirus pandemic. In an online work world, infrastructure and software services become more vital by the day. Box, for example, helps people manage content in the cloud and it beat expectations on adjusted profit and revenue. So why is Optimizely struggling?</p>
+<p>There are a ton of reasons for layoffs beyond what the market thinks about a business. Optimzely’s customers are a mix of heavy-hitters in enterprise, but also include businesses that have struggled during this pandemic, including StubHub and Metromile &#8212; <a href="https://coverager.com/metromile-furloughs-and-parts-ways-with-one-third-of-its-staff/">both of which had layoffs.</a></p>
+<p>While <a href="https://techcrunch.com/2020/06/10/the-pace-of-startup-layoffs-may-be-slowing-down/">the pace of layoffs is slowing down</a>, cuts themselves aren’t disappearing. As the stocks show us, it’s a volatile time and businesses are looking for ways to stay financially safe.</p>
+<img src="http://feeds.feedburner.com/~r/techcrunch/startups/~4/kbpbRTfKcx4" height="1" width="1" alt=""/>]]></content:encoded>
+					
+					<wfw:commentRss>https://techcrunch.com/2020/07/15/benchmark-backed-optimizely-confirms-it-has-laid-off-15-percent-of-staff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2017398</post-id>	<feedburner:origLink>https://techcrunch.com/2020/07/15/benchmark-backed-optimizely-confirms-it-has-laid-off-15-percent-of-staff/</feedburner:origLink></item>
+	</channel>
+</rss>

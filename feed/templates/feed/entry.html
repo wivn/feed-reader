@@ -1,0 +1,18 @@
+{% extends "base/index.html" %}
+{% block title_for_page %}
+	Feed - {{entry.title|truncatechars:50}}
+{%endblock%}
+{% block content %}
+<a class="return_to_feed" href="{%if page_type == 'latest'%}{% url 'feed:latest' %}{%else%}{% url 'feed:index' %}{%endif%}?page={{return_page}}">Go back to feed</a>
+
+<section class="entrypiece">
+	<h1 class="entrypiece__title">{{entry.title|truncatechars:50}}</h1>
+	<h2 class="entrypiece__date">{{entry.published}}</h2>
+	<h3 class="entrypiece__origin">Originally from: <a href="{{entry.url}}">{{entry.feed.url}}</a></h3>
+	<div class="entrypiece__content">
+		{% autoescape off %}
+				{{entry.content }}
+				{% endautoescape %}
+		{%endblock%}
+	</div>
+</section>

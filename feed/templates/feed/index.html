@@ -1,0 +1,105 @@
+{% extends "base/index.html" %}
+{% block title_for_page %}
+    {% if 'latest' in request.path %}
+        Feed - Latest
+    {% elif 'current' in request.path %}
+        Feed - Current
+    {%else%}
+        Feed - Main
+    {%endif%}
+{%endblock%}
+{% block content %}
+
+<h1>Your Wonderful Reader</h1>
+{% if 'latest' in request.path %}
+<h2 class="main-title">Latest</h2>
+{%elif 'current' in request.path%}
+<h2 class="main-title">Current</h2>
+{%else%}
+<h2 class="main-title">Main</h2>
+{%endif%}
+{% if messages %}
+<ul class="messages">
+    {% for message in messages %}
+    <li class="error-text possible_message {% if message.tags %} {{ message.tags }} {% endif %}">{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% block non_entry_list %}
+<form action="{% url 'feed:add_feed' %}" method="post">
+    {% csrf_token %}
+    <label for="new_url_to_add">New URL to add: </label>
+    <div class="add-url">
+        <input class="add-url__input" placeholder="Eg. https://www.example.org" id="new_url_to_add" type="text" name="url" value="{{ current_name }}">
+        {%if page_type%}<input hidden="true" type="text" name="page_type" value="{{page_type}}">{%endif%}
+        <button class="add-url__btn" type="submit">Save</button>
+    </div>
+    </form>
+<form class="reload-feeds" action="{% url 'feed:reload_all_feeds' %}" method="post"> 
+    {% csrf_token %}
+    {%if page_type%}<input hidden="true" type="text" name="page_type" value="{{page_type}}">{%endif%}
+    <label>Reload feeds: <input class="reload-feeds__btn"type="submit" value="⟳"/></label>
+</form>
+<ul class="subs">
+    {% for sub in subs%}
+    <li class="subscription">
+        {{sub.feed.title}} - {{sub.feed.url}}
+        <form class="subscription___form" action="{% url 'feed:delete_subscription' %}" method="post"> 
+            {% csrf_token %}
+            <input type="text" name="id" hidden="true" value="{{sub.id}}">
+            {%if page_type%}<input hidden="true" type="text" name="page_type" value="{{page_type}}">{%endif%}
+            <input type="submit" class="subscription__delete" value="Delete"/>
+        </form>
+    </li>
+    {%endfor%}
+</ul>
+{%endblock%}
+<section class="all-entries">
+    {%for entry_interaction in entries %}
+    {% with entry=entry_interaction.connection%}
+    <div class="entry">
+            <span>
+                {% if entry.title == "No title"%}
+                <div class="entry__title"><a href="{% url 'feed:entry_page' entry.id %}?return_page={{ entries.number }}{%if page_type%}&page_type={{page_type}}{%endif%}">{{entry.content|truncatechars:75|striptags}}</a></div>
+                {%else%}
+                <div class="entry__title"><a href="{% url 'feed:entry_page' entry.id %}?return_page={{ entries.number }}{%if page_type%}&page_type={{page_type}}{%endif%}">{{entry.title|truncatechars:75|striptags}}</a></div>
+                {%endif%}
+                {% if entry.summary%}
+                <div class="entry__summary">{{entry.summary|truncatechars:100|striptags}}</div>
+                {%endif%}
+            </span>
+            <span>
+                <form class="entry__seen-unseen" method="post" action="{% url 'feed:change_entry_read_status' entry_interaction.pk %}">
+                    {% csrf_token %}
+                    <input id="entry__seen-unseen__{{entry.pk}}" class="entry__seen-unseen__btn {%if not entry_interaction.read%}entry__seen-unseen__btn--unread{%endif%}"  type="submit" value="⬤"/>
+                    <label class="entry__seen-unseen__label" for="entry__seen-unseen__{{entry.pk}}">{%if entry_interaction.read%}Mark as unread{%else%}Mark as read{%endif%}</label>
+                    {%if page_type%}<input hidden="true" type="text" name="page_type" value="{{page_type}}">{%endif%}
+                </form>
+                <form class="entry__currently_reading" method="post" action="{% url 'feed:mark_as_currently_reading' entry_interaction.pk %}">
+                    {% csrf_token %}
+                    <input type="submit" class="entry__currently_reading__btn" value="{%if entry_interaction.currently_reading%}Move to Main{%else%}Move to Current{%endif%}"/>
+                    {%if page_type%}<input hidden="true" type="text" name="page_type" value="{{page_type}}">{%endif%}
+                </form>
+            </span>
+    </div>
+    {%endwith%}
+    {%endfor%}
+</section>
+<div class="pagination">
+    <span class="step-links">
+        {% if entries.has_previous %}
+            <a href="?page=1">&laquo; first</a>
+            <a href="?page={{ entries.previous_page_number }}">previous</a>
+        {% endif %}
+
+        <span class="current">
+            Page {{ entries.number }} of {{ entries.paginator.num_pages }}.
+        </span>
+
+        {% if entries.has_next %}
+            <a href="?page={{ entries.next_page_number }}">next</a>
+            <a href="?page={{ entries.paginator.num_pages }}">last &raquo;</a>
+        {% endif %}
+    </span>
+</div>
+{%endblock%}
